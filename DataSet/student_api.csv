@@ -1,0 +1,1001 @@
+Age,Gender,Learning_Style,Previous_Score,Subject,Difficulty,Question_Type,Correct,Time_Taken,Accuracy
+15,Male,Reading/Writing,53,Science,Hard,Essay,False,78.4,0.0
+17,Male,Auditory,70,Geography,Medium,True/False,True,48.14,1.0
+18,Male,Kinesthetic,54,English,Easy,Essay,True,35.56,1.0
+17,Female,Visual,63,History,Hard,Multiple Choice,False,154.44,0.0
+16,Female,Visual,83,Geography,Easy,True/False,False,24.18,0.0
+13,Male,Visual,63,Geography,Medium,Short Answer,True,92.4,0.5
+18,Male,Kinesthetic,83,Geography,Medium,Multiple Choice,False,218.33,0.0
+18,Female,Kinesthetic,64,Math,Medium,Short Answer,True,240.98,1.0
+13,Male,Auditory,88,Geography,Hard,Multiple Choice,True,126.1,1.0
+17,Female,Visual,61,English,Easy,Short Answer,False,29.41,0.0
+18,Male,Kinesthetic,76,Math,Hard,Essay,False,186.95,0.0
+17,Female,Kinesthetic,81,Geography,Hard,Essay,False,198.89,0.0
+16,Male,Visual,66,Geography,Easy,True/False,True,293.86,1.0
+13,Male,Visual,57,Science,Easy,Short Answer,True,178.94,1.0
+15,Male,Kinesthetic,86,English,Medium,Short Answer,False,39.92,0.0
+17,Male,Kinesthetic,58,Math,Hard,Multiple Choice,True,164.6,1.0
+16,Female,Visual,67,Math,Easy,Multiple Choice,True,13.17,0.5
+13,Male,Auditory,91,History,Medium,True/False,False,260.61,0.0
+16,Male,Reading/Writing,52,Math,Medium,Multiple Choice,True,198.55,1.0
+15,Female,Kinesthetic,63,Geography,Hard,True/False,False,224.95,0.0
+13,Male,Reading/Writing,90,Math,Hard,Essay,True,23.94,1.0
+17,Female,Reading/Writing,72,History,Hard,True/False,True,271.98,1.0
+12,Female,Reading/Writing,85,English,Easy,Essay,True,65.52,1.0
+15,Female,Kinesthetic,75,Geography,Medium,Essay,False,114.93,0.0
+14,Male,Visual,70,History,Hard,Essay,True,27.84,1.0
+16,Female,Reading/Writing,65,English,Medium,Multiple Choice,True,228.09,0.5
+15,Male,Visual,63,English,Hard,True/False,True,39.79,1.0
+17,Male,Reading/Writing,69,English,Easy,Short Answer,False,259.76,0.0
+14,Male,Kinesthetic,60,Math,Easy,True/False,False,142.8,0.0
+12,Female,Reading/Writing,72,English,Hard,Short Answer,True,25.55,1.0
+17,Female,Visual,54,Geography,Easy,Short Answer,True,162.18,1.0
+15,Male,Kinesthetic,63,English,Medium,Multiple Choice,False,46.4,0.0
+12,Male,Auditory,93,Geography,Hard,Essay,True,201.03,1.0
+12,Female,Auditory,85,English,Medium,Multiple Choice,True,133.55,1.0
+15,Male,Reading/Writing,64,History,Easy,True/False,False,281.04,0.0
+18,Male,Kinesthetic,90,Math,Easy,Essay,True,142.68,0.5
+14,Male,Auditory,82,History,Easy,Essay,False,187.19,0.0
+18,Female,Auditory,66,Geography,Easy,Short Answer,True,203.2,1.0
+16,Male,Auditory,69,Geography,Medium,Essay,False,29.18,0.0
+13,Male,Auditory,100,Science,Hard,True/False,False,211.31,0.0
+12,Female,Kinesthetic,71,Geography,Medium,Multiple Choice,True,48.29,1.0
+14,Male,Auditory,52,English,Easy,True/False,False,245.11,0.0
+14,Male,Visual,100,English,Hard,True/False,True,287.52,1.0
+18,Female,Auditory,66,Math,Medium,Essay,False,275.58,0.0
+14,Female,Kinesthetic,58,Science,Easy,True/False,True,173.91,1.0
+13,Male,Kinesthetic,62,Geography,Hard,Essay,False,285.6,0.0
+17,Male,Auditory,58,History,Easy,True/False,True,69.68,1.0
+17,Male,Kinesthetic,88,Math,Easy,True/False,False,156.87,0.0
+16,Female,Auditory,76,Science,Medium,True/False,True,56.22,1.0
+13,Female,Reading/Writing,66,History,Hard,Short Answer,False,38.73,0.0
+15,Female,Kinesthetic,63,Geography,Easy,Essay,True,165.13,1.0
+14,Female,Visual,88,Science,Easy,Short Answer,True,158.32,0.3333333333333333
+15,Female,Visual,77,Geography,Easy,Essay,False,275.8,0.0
+13,Female,Visual,63,History,Easy,Multiple Choice,True,96.96,0.3333333333333333
+14,Male,Reading/Writing,69,English,Medium,Multiple Choice,False,64.08,0.0
+18,Female,Kinesthetic,83,Geography,Hard,True/False,True,31.83,1.0
+13,Male,Visual,96,Geography,Medium,Essay,True,154.31,1.0
+16,Male,Reading/Writing,75,Geography,Hard,True/False,False,47.43,0.0
+16,Male,Reading/Writing,73,History,Medium,Essay,True,72.13,1.0
+17,Female,Reading/Writing,77,History,Easy,Essay,False,188.82,0.0
+14,Male,Visual,95,History,Hard,Short Answer,True,47.4,1.0
+16,Male,Kinesthetic,53,Geography,Easy,Essay,False,218.58,0.0
+14,Male,Visual,77,History,Medium,Short Answer,False,192.02,0.0
+17,Female,Auditory,66,History,Hard,True/False,True,158.08,1.0
+18,Female,Auditory,98,Math,Hard,True/False,False,234.92,0.0
+14,Female,Auditory,92,Math,Hard,Essay,False,33.96,0.0
+14,Female,Kinesthetic,79,Math,Hard,Essay,False,132.27,0.0
+12,Female,Visual,100,English,Hard,Short Answer,False,78.96,0.0
+17,Female,Reading/Writing,85,Geography,Medium,Short Answer,False,256.14,0.0
+13,Female,Auditory,89,Geography,Hard,Essay,True,150.37,1.0
+14,Male,Kinesthetic,91,Math,Medium,Short Answer,False,41.38,0.0
+15,Male,Reading/Writing,89,Science,Medium,Short Answer,True,114.13,0.5
+16,Male,Reading/Writing,86,Science,Medium,True/False,False,189.59,0.0
+14,Male,Reading/Writing,75,Science,Easy,Essay,False,254.46,0.0
+17,Female,Visual,91,English,Easy,Essay,True,77.9,1.0
+15,Male,Auditory,62,English,Hard,Short Answer,True,279.32,0.5
+18,Female,Reading/Writing,68,Math,Medium,Short Answer,False,159.74,0.0
+13,Female,Reading/Writing,72,History,Easy,True/False,True,165.28,1.0
+14,Female,Auditory,51,English,Easy,Short Answer,True,281.99,1.0
+17,Female,Kinesthetic,70,Geography,Medium,Essay,True,171.8,1.0
+13,Male,Auditory,79,Science,Medium,Essay,False,280.91,0.0
+12,Female,Reading/Writing,57,Geography,Easy,Short Answer,False,17.66,0.0
+15,Male,Reading/Writing,62,History,Easy,Essay,True,143.02,1.0
+15,Female,Visual,76,English,Hard,True/False,True,201.58,1.0
+13,Female,Visual,63,Math,Medium,True/False,True,33.53,1.0
+18,Female,Kinesthetic,52,Science,Easy,True/False,False,134.99,0.0
+16,Female,Kinesthetic,87,History,Hard,Short Answer,True,255.09,0.5
+14,Male,Auditory,55,Geography,Medium,Multiple Choice,False,201.56,0.0
+13,Male,Kinesthetic,50,English,Hard,Essay,True,130.6,1.0
+14,Male,Auditory,80,English,Hard,Multiple Choice,False,61.81,0.0
+13,Female,Auditory,73,History,Easy,True/False,False,103.2,0.0
+13,Female,Kinesthetic,85,History,Hard,Essay,False,16.78,0.0
+14,Female,Kinesthetic,90,English,Hard,True/False,False,178.24,0.0
+15,Male,Reading/Writing,66,Geography,Medium,Multiple Choice,True,167.85,1.0
+18,Male,Reading/Writing,64,Math,Easy,Multiple Choice,True,289.15,1.0
+18,Female,Reading/Writing,75,Math,Hard,Essay,False,102.59,0.0
+14,Female,Reading/Writing,66,History,Easy,Essay,False,81.71,0.0
+15,Female,Reading/Writing,65,Science,Hard,Short Answer,True,270.85,0.5
+13,Female,Reading/Writing,62,Geography,Hard,Multiple Choice,True,20.8,1.0
+14,Male,Kinesthetic,99,Science,Hard,True/False,False,167.48,0.0
+16,Male,Visual,78,Science,Hard,True/False,False,91.83,0.0
+15,Female,Auditory,69,Geography,Easy,True/False,False,126.64,0.0
+13,Male,Kinesthetic,62,History,Hard,True/False,False,210.6,0.0
+14,Female,Kinesthetic,99,History,Hard,Essay,False,116.05,0.0
+18,Male,Kinesthetic,71,Math,Easy,Essay,False,203.37,0.0
+18,Female,Reading/Writing,83,English,Medium,Short Answer,False,175.25,0.0
+16,Female,Reading/Writing,65,Math,Easy,Multiple Choice,False,71.61,0.0
+18,Male,Visual,79,Science,Easy,Essay,False,226.07,0.0
+12,Male,Kinesthetic,83,Math,Easy,Essay,True,179.57,1.0
+13,Female,Reading/Writing,62,Math,Hard,Essay,True,249.06,1.0
+15,Female,Kinesthetic,66,Math,Medium,Short Answer,True,34.95,1.0
+13,Female,Visual,95,Geography,Hard,Multiple Choice,False,20.72,0.0
+17,Female,Visual,55,Geography,Medium,True/False,False,192.0,0.0
+12,Male,Kinesthetic,69,English,Easy,True/False,True,50.41,1.0
+15,Male,Auditory,50,Geography,Easy,Essay,True,155.03,0.5
+12,Female,Auditory,76,Math,Medium,Short Answer,False,163.91,0.0
+13,Male,Visual,78,Geography,Hard,Short Answer,True,28.23,1.0
+18,Male,Auditory,59,History,Hard,True/False,True,20.78,1.0
+14,Male,Auditory,77,English,Medium,True/False,False,241.41,0.0
+12,Female,Reading/Writing,75,Geography,Hard,Essay,True,28.96,1.0
+16,Male,Reading/Writing,63,Math,Hard,Essay,True,58.5,1.0
+15,Female,Visual,72,Science,Medium,Short Answer,False,40.17,0.0
+15,Male,Visual,87,English,Easy,True/False,False,253.55,0.0
+14,Male,Reading/Writing,70,History,Hard,True/False,True,198.21,1.0
+12,Male,Kinesthetic,75,Math,Easy,Short Answer,True,236.06,1.0
+13,Female,Auditory,93,Geography,Medium,Short Answer,True,107.96,1.0
+13,Female,Visual,88,History,Easy,Multiple Choice,False,208.67,0.0
+18,Female,Reading/Writing,76,Geography,Hard,True/False,False,164.2,0.0
+17,Female,Visual,77,History,Easy,Short Answer,False,93.93,0.0
+15,Male,Auditory,52,Science,Easy,Multiple Choice,True,57.98,1.0
+14,Female,Reading/Writing,82,History,Easy,Short Answer,True,210.18,1.0
+12,Male,Reading/Writing,59,Math,Medium,Essay,True,72.23,1.0
+12,Female,Visual,85,Math,Medium,Short Answer,False,177.73,0.0
+16,Female,Auditory,66,Math,Hard,True/False,False,249.44,0.0
+17,Female,Kinesthetic,77,History,Easy,Multiple Choice,False,191.4,0.0
+18,Male,Auditory,100,Math,Hard,Short Answer,False,70.19,0.0
+14,Female,Reading/Writing,88,Math,Medium,Short Answer,False,67.36,0.0
+14,Female,Reading/Writing,76,Science,Medium,Short Answer,True,286.89,1.0
+12,Male,Auditory,83,Geography,Medium,Multiple Choice,True,56.22,1.0
+12,Female,Visual,64,English,Medium,Multiple Choice,True,158.17,1.0
+13,Male,Kinesthetic,60,Geography,Hard,True/False,False,243.91,0.0
+18,Female,Kinesthetic,70,Geography,Hard,Multiple Choice,True,254.94,1.0
+16,Male,Auditory,93,History,Easy,Essay,True,162.74,0.5
+18,Female,Visual,90,History,Medium,Multiple Choice,True,116.06,1.0
+17,Female,Visual,78,English,Easy,Short Answer,True,247.56,0.3333333333333333
+18,Male,Kinesthetic,63,Science,Easy,True/False,True,160.48,1.0
+14,Male,Reading/Writing,94,Science,Easy,True/False,True,292.03,1.0
+18,Female,Visual,88,Math,Hard,Multiple Choice,False,165.42,0.0
+17,Female,Kinesthetic,81,English,Medium,Multiple Choice,True,223.14,1.0
+17,Male,Kinesthetic,89,Science,Medium,True/False,True,180.24,0.5
+13,Male,Kinesthetic,55,History,Medium,Essay,True,259.16,1.0
+16,Female,Visual,100,Math,Medium,Multiple Choice,True,52.36,1.0
+17,Male,Kinesthetic,78,Math,Easy,Short Answer,True,204.79,1.0
+18,Female,Visual,56,Math,Hard,True/False,True,58.87,1.0
+15,Male,Reading/Writing,64,English,Hard,True/False,True,280.06,1.0
+13,Female,Reading/Writing,91,Math,Hard,True/False,True,22.81,1.0
+16,Female,Kinesthetic,58,Math,Medium,Essay,False,256.48,0.0
+14,Male,Reading/Writing,99,English,Hard,Short Answer,True,11.01,1.0
+12,Female,Auditory,50,Science,Easy,Short Answer,True,227.75,1.0
+18,Female,Kinesthetic,86,English,Medium,Multiple Choice,True,80.63,1.0
+15,Female,Visual,77,Geography,Hard,Short Answer,False,48.55,0.0
+18,Male,Reading/Writing,86,English,Hard,Short Answer,False,240.11,0.0
+14,Male,Kinesthetic,60,Science,Medium,Short Answer,False,266.5,0.0
+18,Female,Reading/Writing,98,Geography,Hard,True/False,False,125.13,0.0
+13,Female,Auditory,81,English,Hard,Essay,False,172.94,0.0
+18,Female,Kinesthetic,59,History,Easy,Short Answer,False,241.95,0.0
+13,Male,Auditory,54,Geography,Easy,Short Answer,False,212.16,0.0
+13,Male,Kinesthetic,87,History,Easy,Multiple Choice,True,283.86,1.0
+18,Male,Auditory,93,Geography,Easy,True/False,False,106.73,0.0
+13,Male,Reading/Writing,83,Geography,Easy,True/False,False,82.11,0.0
+17,Male,Reading/Writing,88,History,Easy,Multiple Choice,False,151.81,0.0
+16,Male,Visual,99,Math,Hard,True/False,False,47.4,0.0
+13,Male,Kinesthetic,60,English,Medium,True/False,False,238.8,0.0
+14,Male,Auditory,83,English,Hard,Short Answer,True,282.42,1.0
+18,Female,Visual,85,English,Medium,Short Answer,False,111.52,0.0
+14,Female,Reading/Writing,67,Math,Hard,Essay,True,18.44,1.0
+14,Female,Kinesthetic,81,English,Easy,Essay,True,256.44,1.0
+17,Female,Auditory,94,History,Medium,Short Answer,False,119.62,0.0
+18,Female,Kinesthetic,51,English,Medium,Short Answer,False,31.23,0.0
+14,Male,Auditory,83,Science,Easy,Essay,True,111.91,1.0
+17,Male,Auditory,69,History,Hard,True/False,False,276.37,0.0
+17,Male,Auditory,64,Science,Medium,Multiple Choice,True,52.68,0.5
+12,Male,Auditory,70,History,Hard,Multiple Choice,True,64.82,1.0
+14,Female,Visual,64,Science,Hard,Essay,False,71.15,0.0
+17,Female,Kinesthetic,90,English,Medium,Short Answer,True,37.77,1.0
+16,Male,Auditory,54,History,Easy,True/False,True,285.72,1.0
+17,Female,Visual,80,History,Medium,Short Answer,True,198.64,1.0
+14,Female,Kinesthetic,83,Geography,Hard,Essay,False,263.46,0.0
+15,Male,Visual,62,English,Medium,Essay,True,252.51,1.0
+13,Male,Kinesthetic,89,Science,Hard,Short Answer,False,91.52,0.0
+12,Female,Kinesthetic,79,Math,Hard,Essay,True,110.22,1.0
+16,Male,Reading/Writing,73,History,Hard,Essay,True,240.31,1.0
+13,Male,Kinesthetic,84,Math,Easy,Multiple Choice,False,19.59,0.0
+15,Female,Kinesthetic,60,Geography,Easy,Essay,False,79.61,0.0
+16,Male,Kinesthetic,83,Geography,Easy,True/False,True,239.62,1.0
+13,Male,Visual,85,Science,Medium,True/False,True,35.91,1.0
+17,Female,Reading/Writing,52,English,Hard,Essay,True,177.31,0.5
+13,Male,Visual,90,Science,Hard,True/False,False,68.69,0.0
+13,Male,Auditory,56,Math,Hard,Multiple Choice,True,64.01,1.0
+12,Female,Reading/Writing,99,History,Medium,Essay,False,213.18,0.0
+16,Female,Reading/Writing,99,English,Hard,Multiple Choice,False,102.26,0.0
+15,Female,Reading/Writing,50,Math,Easy,Multiple Choice,False,262.36,0.0
+17,Male,Reading/Writing,66,Science,Medium,Essay,True,36.97,0.3333333333333333
+14,Female,Kinesthetic,74,Geography,Easy,Short Answer,True,96.32,1.0
+13,Female,Visual,72,Science,Hard,Essay,True,288.12,1.0
+12,Female,Visual,55,Geography,Medium,Multiple Choice,False,134.63,0.0
+14,Female,Kinesthetic,81,English,Medium,Short Answer,False,24.7,0.0
+16,Male,Kinesthetic,61,Geography,Medium,True/False,False,244.63,0.0
+13,Female,Visual,82,Science,Hard,Multiple Choice,False,64.51,0.0
+12,Female,Visual,63,Geography,Easy,Short Answer,False,234.45,0.0
+18,Male,Kinesthetic,66,Geography,Easy,Short Answer,False,80.08,0.0
+15,Male,Reading/Writing,97,Math,Easy,Short Answer,True,238.84,1.0
+18,Male,Kinesthetic,70,English,Medium,True/False,False,251.38,0.0
+12,Male,Auditory,97,Geography,Easy,True/False,True,121.55,0.5
+13,Female,Auditory,84,Math,Medium,True/False,False,285.04,0.0
+17,Male,Auditory,97,English,Hard,Essay,True,143.13,0.5
+17,Male,Visual,84,History,Medium,True/False,False,112.53,0.0
+13,Male,Auditory,94,Math,Easy,Multiple Choice,True,200.2,1.0
+18,Male,Reading/Writing,86,Geography,Easy,True/False,True,55.24,1.0
+12,Female,Reading/Writing,80,Geography,Easy,Short Answer,False,134.45,0.0
+14,Female,Reading/Writing,62,English,Easy,True/False,True,283.38,1.0
+16,Female,Kinesthetic,70,Math,Hard,Short Answer,False,277.75,0.0
+13,Female,Visual,96,Math,Hard,Essay,False,53.33,0.0
+12,Female,Visual,99,Math,Easy,True/False,True,55.78,1.0
+18,Female,Kinesthetic,51,Geography,Easy,Essay,True,275.87,1.0
+12,Male,Auditory,77,English,Medium,True/False,False,125.27,0.0
+15,Male,Reading/Writing,100,History,Hard,Multiple Choice,True,56.52,1.0
+18,Male,Auditory,63,Math,Medium,Short Answer,False,260.62,0.0
+15,Female,Reading/Writing,76,History,Hard,Essay,False,213.7,0.0
+14,Female,Reading/Writing,71,History,Easy,Multiple Choice,True,15.41,1.0
+18,Male,Reading/Writing,62,Science,Hard,Essay,True,263.12,0.5
+18,Male,Reading/Writing,77,Math,Medium,Multiple Choice,False,208.97,0.0
+12,Female,Reading/Writing,52,Math,Hard,Short Answer,True,45.75,0.5
+14,Female,Kinesthetic,63,Math,Easy,Short Answer,False,165.75,0.0
+14,Female,Auditory,86,Geography,Medium,Short Answer,False,179.81,0.0
+12,Male,Reading/Writing,89,History,Hard,Multiple Choice,False,94.27,0.0
+16,Female,Reading/Writing,57,Geography,Hard,Essay,False,199.9,0.0
+12,Female,Reading/Writing,51,Math,Hard,Essay,False,222.95,0.0
+17,Female,Kinesthetic,55,Geography,Easy,Short Answer,False,258.12,0.0
+12,Female,Reading/Writing,68,Science,Easy,Short Answer,True,281.69,0.5
+14,Female,Reading/Writing,65,History,Medium,Multiple Choice,False,120.07,0.0
+13,Male,Reading/Writing,68,Geography,Hard,Multiple Choice,False,16.12,0.0
+17,Male,Auditory,57,Geography,Easy,Multiple Choice,True,53.18,1.0
+12,Male,Visual,96,Math,Medium,Multiple Choice,False,222.71,0.0
+15,Male,Kinesthetic,52,English,Easy,Short Answer,False,25.19,0.0
+18,Female,Kinesthetic,79,English,Hard,Multiple Choice,False,76.74,0.0
+12,Female,Auditory,96,Math,Easy,True/False,True,223.65,0.5
+13,Female,Reading/Writing,52,English,Easy,True/False,False,175.77,0.0
+17,Male,Auditory,61,Math,Medium,Essay,True,207.71,1.0
+16,Female,Visual,96,History,Hard,Short Answer,False,187.79,0.0
+14,Female,Reading/Writing,77,English,Easy,Multiple Choice,False,201.46,0.0
+12,Male,Auditory,61,Geography,Medium,True/False,False,195.24,0.0
+17,Male,Auditory,73,Science,Medium,Short Answer,False,124.62,0.0
+18,Male,Visual,92,History,Easy,Essay,True,194.71,1.0
+13,Male,Kinesthetic,65,Science,Hard,Essay,False,285.33,0.0
+12,Male,Reading/Writing,59,Math,Easy,Short Answer,False,222.33,0.0
+14,Male,Visual,64,History,Medium,Essay,False,269.84,0.0
+18,Male,Auditory,78,Math,Medium,Multiple Choice,False,122.33,0.0
+13,Male,Reading/Writing,81,Math,Medium,Essay,False,190.73,0.0
+16,Female,Reading/Writing,100,History,Hard,True/False,True,274.1,1.0
+17,Female,Auditory,76,Science,Hard,Short Answer,True,97.69,1.0
+13,Female,Kinesthetic,80,Geography,Easy,Multiple Choice,True,136.7,1.0
+16,Male,Kinesthetic,90,History,Medium,Short Answer,True,37.12,1.0
+18,Male,Kinesthetic,77,History,Easy,True/False,False,236.09,0.0
+18,Male,Visual,61,Math,Medium,True/False,False,255.85,0.0
+18,Female,Reading/Writing,64,Geography,Hard,Multiple Choice,False,182.75,0.0
+15,Female,Reading/Writing,59,Math,Hard,Essay,True,150.94,1.0
+14,Female,Auditory,55,History,Medium,Multiple Choice,False,268.69,0.0
+12,Female,Kinesthetic,81,Math,Easy,Essay,True,116.6,1.0
+14,Female,Reading/Writing,56,Science,Easy,Short Answer,False,246.66,0.0
+18,Male,Kinesthetic,97,English,Medium,Short Answer,True,263.44,1.0
+14,Male,Auditory,74,Math,Easy,Essay,False,166.45,0.0
+12,Male,Visual,68,History,Medium,Essay,True,86.04,1.0
+13,Female,Kinesthetic,70,Science,Medium,Essay,False,264.86,0.0
+16,Female,Auditory,51,Science,Medium,Essay,False,67.14,0.0
+15,Male,Reading/Writing,96,History,Medium,Short Answer,True,51.58,1.0
+15,Male,Auditory,89,Science,Easy,True/False,False,208.01,0.0
+14,Female,Auditory,69,English,Medium,Essay,False,22.33,0.0
+13,Female,Reading/Writing,91,History,Easy,Multiple Choice,True,54.82,1.0
+13,Male,Reading/Writing,75,English,Hard,Essay,True,292.62,1.0
+14,Male,Reading/Writing,100,Geography,Medium,Essay,False,138.6,0.0
+14,Female,Kinesthetic,57,English,Hard,Multiple Choice,False,194.33,0.0
+16,Male,Auditory,53,English,Hard,True/False,False,96.85,0.0
+17,Male,Visual,51,Geography,Hard,True/False,True,116.16,1.0
+15,Male,Visual,57,Math,Medium,True/False,False,198.03,0.0
+15,Female,Auditory,84,Math,Medium,True/False,False,111.33,0.0
+17,Male,Kinesthetic,63,Science,Hard,Multiple Choice,False,101.34,0.0
+15,Female,Kinesthetic,74,Geography,Easy,Essay,False,140.13,0.0
+17,Male,Auditory,51,Geography,Medium,True/False,True,124.02,1.0
+18,Female,Kinesthetic,88,History,Easy,Multiple Choice,False,14.12,0.0
+18,Male,Reading/Writing,66,Math,Easy,Essay,False,97.26,0.0
+15,Male,Reading/Writing,81,Geography,Medium,Multiple Choice,False,39.63,0.0
+17,Male,Auditory,57,History,Medium,True/False,True,285.16,1.0
+14,Female,Visual,60,Science,Hard,Multiple Choice,True,21.7,1.0
+17,Female,Kinesthetic,100,English,Medium,True/False,True,183.91,1.0
+14,Male,Visual,98,Geography,Medium,Short Answer,False,126.4,0.0
+13,Female,Auditory,88,History,Easy,Short Answer,False,285.72,0.0
+12,Male,Visual,67,English,Hard,True/False,True,40.56,1.0
+17,Male,Auditory,64,English,Easy,Short Answer,False,277.47,0.0
+16,Male,Visual,67,History,Hard,Multiple Choice,True,295.1,1.0
+13,Female,Reading/Writing,64,Math,Medium,Multiple Choice,True,289.01,0.3333333333333333
+12,Female,Reading/Writing,56,Math,Easy,Multiple Choice,False,98.02,0.0
+12,Female,Visual,95,Geography,Hard,Essay,False,40.82,0.0
+17,Male,Auditory,56,Science,Medium,True/False,False,165.02,0.0
+18,Male,Visual,56,History,Hard,Short Answer,True,182.01,0.5
+14,Male,Reading/Writing,68,Science,Medium,Essay,False,297.93,0.0
+15,Female,Auditory,87,History,Medium,Short Answer,True,273.94,0.5
+18,Female,Auditory,72,Science,Medium,Short Answer,True,290.94,1.0
+17,Female,Reading/Writing,95,History,Hard,Short Answer,True,141.42,1.0
+15,Female,Visual,76,History,Hard,Essay,True,175.38,1.0
+13,Female,Kinesthetic,90,Science,Medium,Multiple Choice,False,223.3,0.0
+13,Male,Visual,66,Geography,Easy,Short Answer,True,88.73,0.5
+14,Female,Kinesthetic,84,Science,Medium,Short Answer,True,223.87,1.0
+18,Female,Auditory,60,Science,Hard,Essay,True,15.42,1.0
+15,Male,Auditory,65,English,Easy,Short Answer,False,298.0,0.0
+12,Male,Auditory,50,Science,Hard,Short Answer,True,38.55,1.0
+12,Male,Visual,94,Geography,Hard,Short Answer,False,91.2,0.0
+18,Male,Auditory,79,Geography,Hard,Short Answer,True,152.55,0.5
+17,Female,Reading/Writing,91,Math,Medium,True/False,False,79.52,0.0
+14,Male,Reading/Writing,98,English,Hard,True/False,True,219.17,1.0
+17,Male,Visual,84,Geography,Hard,Essay,False,221.4,0.0
+16,Female,Visual,59,English,Easy,Multiple Choice,True,163.31,1.0
+15,Male,Auditory,73,Geography,Easy,Short Answer,True,200.37,1.0
+17,Male,Visual,64,History,Easy,Short Answer,True,40.95,1.0
+15,Male,Kinesthetic,78,Geography,Easy,Essay,True,75.33,1.0
+12,Male,Visual,57,Geography,Easy,Short Answer,True,182.28,1.0
+12,Male,Auditory,93,Geography,Medium,Essay,True,112.38,1.0
+12,Male,Visual,90,History,Medium,Short Answer,True,67.05,1.0
+12,Male,Auditory,52,Science,Easy,Multiple Choice,False,84.76,0.0
+13,Female,Auditory,84,Math,Medium,True/False,True,54.11,1.0
+14,Male,Visual,68,Geography,Easy,Short Answer,True,31.74,0.5
+15,Female,Visual,65,Geography,Easy,Essay,False,268.28,0.0
+16,Male,Auditory,70,History,Easy,Essay,True,104.25,0.5
+18,Male,Auditory,83,History,Medium,True/False,True,283.14,0.5
+15,Female,Visual,80,Math,Easy,Essay,True,52.48,1.0
+13,Female,Kinesthetic,83,Geography,Medium,True/False,False,137.67,0.0
+12,Female,Kinesthetic,78,History,Hard,Short Answer,True,138.21,1.0
+13,Female,Reading/Writing,52,English,Hard,Multiple Choice,False,170.11,0.0
+18,Female,Kinesthetic,66,English,Easy,Multiple Choice,False,218.87,0.0
+14,Female,Kinesthetic,89,English,Medium,Multiple Choice,False,55.48,0.0
+18,Male,Visual,59,History,Hard,Multiple Choice,False,274.75,0.0
+15,Female,Visual,80,Geography,Hard,Multiple Choice,True,132.18,1.0
+14,Male,Reading/Writing,57,English,Medium,Essay,False,228.01,0.0
+18,Female,Kinesthetic,91,Geography,Hard,Multiple Choice,True,251.93,1.0
+17,Female,Auditory,92,History,Easy,Essay,True,85.83,1.0
+14,Male,Auditory,66,Geography,Medium,Essay,False,222.32,0.0
+13,Female,Reading/Writing,77,English,Easy,Short Answer,True,11.41,1.0
+12,Female,Kinesthetic,74,Science,Hard,Essay,False,172.29,0.0
+15,Female,Reading/Writing,98,History,Hard,Essay,False,161.89,0.0
+18,Male,Reading/Writing,69,History,Easy,Short Answer,False,35.17,0.0
+18,Male,Auditory,68,History,Hard,Multiple Choice,True,202.46,1.0
+17,Female,Reading/Writing,69,English,Easy,True/False,True,286.06,0.5
+16,Male,Reading/Writing,85,Math,Hard,Short Answer,True,85.6,1.0
+16,Female,Reading/Writing,73,Geography,Medium,True/False,True,111.24,1.0
+17,Male,Visual,89,History,Easy,Short Answer,False,68.06,0.0
+16,Female,Reading/Writing,59,Geography,Easy,Short Answer,False,110.71,0.0
+15,Male,Reading/Writing,100,History,Medium,Short Answer,False,140.08,0.0
+17,Female,Visual,86,English,Medium,Short Answer,True,227.36,1.0
+18,Female,Visual,61,History,Easy,Multiple Choice,False,197.44,0.0
+18,Female,Reading/Writing,100,Geography,Medium,Multiple Choice,False,280.62,0.0
+12,Male,Reading/Writing,100,English,Medium,True/False,False,243.25,0.0
+13,Male,Reading/Writing,54,History,Easy,Essay,False,130.76,0.0
+17,Male,Visual,92,History,Easy,Multiple Choice,False,145.02,0.0
+15,Female,Kinesthetic,89,Science,Medium,Short Answer,False,72.14,0.0
+14,Male,Reading/Writing,59,Math,Hard,Essay,True,271.34,0.3333333333333333
+13,Female,Visual,76,History,Easy,Multiple Choice,False,160.42,0.0
+13,Male,Auditory,71,History,Medium,Essay,False,140.8,0.0
+18,Male,Kinesthetic,64,Science,Medium,Essay,False,150.39,0.0
+18,Male,Auditory,69,Math,Medium,True/False,False,244.0,0.0
+16,Male,Auditory,76,History,Medium,Essay,True,206.23,1.0
+12,Male,Kinesthetic,70,Math,Medium,True/False,False,54.49,0.0
+13,Female,Kinesthetic,96,English,Medium,Essay,False,267.56,0.0
+15,Female,Visual,89,English,Hard,Essay,False,213.49,0.0
+13,Male,Auditory,61,English,Hard,True/False,False,216.52,0.0
+18,Male,Reading/Writing,65,Science,Medium,True/False,False,200.55,0.0
+15,Female,Kinesthetic,100,English,Hard,Essay,True,243.51,1.0
+16,Female,Auditory,98,Science,Easy,Essay,False,281.48,0.0
+12,Female,Reading/Writing,92,History,Easy,Essay,False,53.93,0.0
+14,Female,Auditory,88,History,Medium,Multiple Choice,True,256.71,1.0
+18,Male,Reading/Writing,98,Math,Easy,True/False,False,57.53,0.0
+14,Female,Reading/Writing,77,English,Medium,True/False,True,292.65,0.5
+18,Female,Visual,79,Science,Easy,True/False,False,187.98,0.0
+17,Female,Kinesthetic,93,Science,Easy,True/False,True,49.99,1.0
+13,Female,Auditory,64,Geography,Hard,Multiple Choice,False,273.38,0.0
+14,Female,Kinesthetic,67,Science,Medium,Essay,True,55.87,1.0
+15,Female,Visual,99,Science,Medium,Short Answer,False,265.08,0.0
+12,Male,Auditory,57,Science,Hard,Short Answer,False,199.79,0.0
+17,Male,Visual,63,English,Medium,Short Answer,False,280.0,0.0
+17,Female,Auditory,63,History,Hard,Short Answer,True,160.43,1.0
+12,Male,Visual,88,Math,Medium,Essay,True,28.85,1.0
+12,Male,Auditory,76,Science,Easy,True/False,False,188.14,0.0
+13,Male,Auditory,71,History,Hard,Essay,False,225.14,0.0
+16,Female,Reading/Writing,98,Geography,Easy,Short Answer,False,52.09,0.0
+18,Female,Kinesthetic,98,Geography,Medium,Essay,False,137.29,0.0
+15,Female,Reading/Writing,93,Science,Medium,Essay,True,198.34,1.0
+12,Male,Reading/Writing,73,English,Medium,True/False,False,237.1,0.0
+15,Female,Visual,55,Math,Medium,Essay,False,223.9,0.0
+13,Female,Visual,88,Geography,Medium,Multiple Choice,True,76.67,1.0
+14,Female,Kinesthetic,53,Geography,Medium,Multiple Choice,True,110.94,1.0
+15,Male,Visual,76,Science,Easy,Multiple Choice,False,141.53,0.0
+17,Male,Auditory,82,Math,Easy,Short Answer,False,138.09,0.0
+16,Female,Kinesthetic,60,Math,Hard,Essay,False,163.81,0.0
+15,Female,Auditory,88,Science,Easy,True/False,False,290.43,0.0
+18,Male,Kinesthetic,93,Math,Hard,True/False,False,230.42,0.0
+18,Female,Auditory,80,Math,Medium,Multiple Choice,True,153.58,1.0
+15,Female,Visual,87,Math,Medium,True/False,True,188.64,1.0
+16,Male,Reading/Writing,56,Science,Medium,Short Answer,False,22.33,0.0
+17,Male,Kinesthetic,55,History,Easy,Essay,True,75.45,1.0
+13,Male,Visual,90,Geography,Easy,Short Answer,True,226.37,1.0
+13,Male,Auditory,100,History,Easy,Short Answer,False,87.56,0.0
+15,Female,Auditory,75,History,Hard,Essay,True,244.78,1.0
+15,Female,Auditory,99,History,Medium,Short Answer,True,75.42,1.0
+16,Male,Visual,65,Geography,Hard,Multiple Choice,False,235.27,0.0
+18,Female,Reading/Writing,85,Geography,Easy,Essay,False,117.51,0.0
+14,Female,Auditory,86,Science,Hard,Essay,True,126.95,1.0
+12,Female,Reading/Writing,72,Math,Easy,Short Answer,True,122.21,1.0
+13,Male,Kinesthetic,87,Science,Hard,Short Answer,False,72.02,0.0
+13,Male,Visual,90,English,Medium,Essay,True,229.79,0.5
+13,Male,Reading/Writing,99,Science,Easy,True/False,False,162.8,0.0
+14,Female,Kinesthetic,93,Science,Easy,Essay,True,296.53,1.0
+17,Female,Auditory,91,History,Easy,Essay,True,68.33,1.0
+13,Female,Reading/Writing,62,Math,Medium,Short Answer,True,49.97,1.0
+12,Female,Auditory,73,English,Easy,True/False,True,196.36,1.0
+13,Female,Reading/Writing,60,Math,Medium,Short Answer,False,18.99,0.0
+15,Female,Reading/Writing,93,English,Hard,True/False,False,252.55,0.0
+18,Male,Auditory,73,Geography,Medium,Short Answer,True,261.48,1.0
+17,Male,Kinesthetic,80,Science,Easy,True/False,False,85.06,0.0
+14,Male,Visual,67,English,Medium,True/False,False,56.29,0.0
+15,Male,Visual,99,History,Easy,Essay,False,171.21,0.0
+17,Female,Visual,66,Geography,Hard,True/False,False,157.41,0.0
+16,Female,Kinesthetic,90,Math,Hard,Essay,False,258.15,0.0
+18,Female,Auditory,51,Science,Easy,Essay,True,89.68,1.0
+12,Male,Reading/Writing,89,History,Medium,Short Answer,False,259.22,0.0
+18,Female,Kinesthetic,54,English,Easy,Multiple Choice,True,225.39,1.0
+15,Female,Auditory,61,English,Hard,Essay,False,266.4,0.0
+12,Female,Reading/Writing,100,English,Medium,Essay,False,15.28,0.0
+15,Male,Kinesthetic,69,Science,Hard,Short Answer,False,149.87,0.0
+13,Male,Reading/Writing,57,Math,Easy,Essay,True,82.42,1.0
+16,Male,Visual,94,Geography,Hard,Short Answer,False,254.55,0.0
+17,Female,Visual,94,Geography,Easy,True/False,True,266.63,1.0
+13,Female,Visual,72,Math,Easy,Short Answer,True,178.27,1.0
+13,Female,Reading/Writing,51,Geography,Easy,Essay,False,184.11,0.0
+14,Female,Kinesthetic,50,English,Easy,Short Answer,True,104.75,1.0
+17,Female,Reading/Writing,92,Geography,Hard,Short Answer,False,37.32,0.0
+14,Female,Auditory,80,English,Medium,True/False,True,287.25,1.0
+18,Female,Visual,91,Math,Hard,Short Answer,False,255.03,0.0
+13,Female,Visual,91,English,Hard,True/False,True,79.54,1.0
+12,Male,Reading/Writing,70,Science,Hard,Multiple Choice,False,14.23,0.0
+15,Male,Kinesthetic,79,History,Hard,True/False,False,217.48,0.0
+16,Male,Reading/Writing,58,Science,Easy,Multiple Choice,True,79.0,1.0
+17,Female,Kinesthetic,69,History,Easy,Essay,False,41.45,0.0
+12,Female,Auditory,85,Science,Easy,Multiple Choice,False,12.54,0.0
+12,Female,Reading/Writing,60,History,Easy,Short Answer,False,220.57,0.0
+16,Male,Kinesthetic,89,Geography,Hard,Essay,True,288.84,1.0
+12,Male,Reading/Writing,84,English,Easy,Essay,False,195.98,0.0
+13,Female,Kinesthetic,100,Science,Hard,Essay,False,122.1,0.0
+14,Male,Auditory,97,History,Easy,Essay,True,210.19,1.0
+16,Female,Kinesthetic,100,History,Hard,Multiple Choice,True,95.24,0.5
+18,Female,Kinesthetic,52,Math,Medium,Short Answer,True,55.26,1.0
+13,Female,Visual,95,Math,Medium,Multiple Choice,True,182.3,0.5
+14,Male,Visual,68,Geography,Hard,Multiple Choice,False,101.95,0.0
+12,Male,Visual,64,History,Hard,Multiple Choice,False,196.15,0.0
+18,Male,Visual,57,Science,Medium,Multiple Choice,True,136.59,1.0
+18,Male,Visual,72,Science,Hard,Essay,True,277.15,1.0
+12,Male,Kinesthetic,67,Geography,Medium,Essay,False,151.11,0.0
+14,Female,Visual,97,Math,Easy,True/False,True,185.82,1.0
+15,Female,Kinesthetic,91,Math,Medium,Short Answer,True,242.84,1.0
+15,Female,Auditory,53,Math,Medium,Short Answer,False,262.71,0.0
+16,Male,Visual,68,Geography,Hard,True/False,True,256.64,1.0
+18,Male,Visual,51,Science,Medium,Short Answer,False,244.45,0.0
+14,Female,Kinesthetic,95,Math,Medium,Essay,True,69.69,1.0
+17,Male,Visual,57,Math,Medium,True/False,False,243.52,0.0
+14,Male,Kinesthetic,60,Science,Medium,Essay,True,17.35,1.0
+13,Male,Visual,63,English,Hard,Essay,True,38.17,1.0
+13,Female,Kinesthetic,68,Science,Easy,Multiple Choice,False,136.99,0.0
+12,Female,Visual,100,Science,Easy,Multiple Choice,False,32.11,0.0
+16,Female,Auditory,72,English,Easy,Essay,True,120.78,1.0
+15,Male,Visual,62,Science,Hard,True/False,True,195.91,1.0
+14,Male,Kinesthetic,87,Geography,Easy,Short Answer,True,286.14,1.0
+18,Male,Auditory,89,Math,Hard,Multiple Choice,False,115.2,0.0
+16,Male,Reading/Writing,51,Math,Hard,Short Answer,True,281.28,1.0
+12,Male,Kinesthetic,91,Geography,Hard,True/False,True,67.77,0.5
+18,Male,Auditory,74,History,Easy,Multiple Choice,False,36.04,0.0
+15,Male,Kinesthetic,92,English,Hard,Short Answer,True,269.97,1.0
+15,Male,Reading/Writing,97,English,Easy,Essay,False,84.63,0.0
+18,Male,Visual,65,English,Medium,Essay,False,152.17,0.0
+14,Female,Visual,80,History,Medium,Multiple Choice,True,30.18,0.5
+15,Female,Auditory,61,History,Easy,True/False,False,176.5,0.0
+14,Male,Auditory,100,Math,Hard,Short Answer,True,86.22,0.5
+12,Female,Reading/Writing,91,English,Easy,Essay,False,126.4,0.0
+15,Female,Reading/Writing,92,Math,Hard,Short Answer,False,95.8,0.0
+17,Male,Visual,58,Geography,Easy,Multiple Choice,False,150.72,0.0
+15,Male,Kinesthetic,87,Science,Medium,Multiple Choice,False,152.31,0.0
+13,Female,Auditory,54,Geography,Medium,True/False,True,10.91,0.5
+12,Male,Reading/Writing,70,Science,Hard,Short Answer,False,198.37,0.0
+15,Male,Auditory,100,Geography,Hard,Short Answer,False,174.91,0.0
+14,Female,Reading/Writing,73,Science,Medium,Short Answer,False,262.03,0.0
+17,Male,Kinesthetic,57,Geography,Easy,True/False,True,44.98,1.0
+15,Male,Reading/Writing,55,Geography,Medium,Short Answer,False,43.41,0.0
+15,Female,Reading/Writing,74,History,Easy,Short Answer,True,172.2,1.0
+15,Male,Kinesthetic,56,Geography,Medium,Essay,False,138.35,0.0
+15,Male,Visual,86,Math,Medium,Short Answer,True,127.15,0.5
+18,Female,Visual,70,Science,Easy,Short Answer,True,228.38,1.0
+15,Female,Visual,91,History,Easy,Short Answer,False,289.18,0.0
+14,Male,Kinesthetic,50,Geography,Easy,Essay,False,95.85,0.0
+16,Female,Auditory,79,Geography,Medium,Multiple Choice,False,165.0,0.0
+12,Male,Reading/Writing,66,Geography,Hard,Essay,False,190.73,0.0
+17,Female,Visual,60,History,Hard,Multiple Choice,False,141.27,0.0
+16,Male,Auditory,96,Math,Hard,Short Answer,True,116.34,1.0
+15,Female,Reading/Writing,56,English,Easy,Essay,False,265.55,0.0
+17,Female,Reading/Writing,54,History,Easy,Short Answer,True,86.6,1.0
+15,Female,Visual,66,English,Medium,True/False,False,115.05,0.0
+13,Male,Auditory,63,Math,Medium,Essay,False,26.68,0.0
+12,Male,Reading/Writing,96,Science,Easy,Essay,True,120.51,1.0
+14,Female,Kinesthetic,67,Math,Easy,Multiple Choice,True,140.75,1.0
+14,Female,Reading/Writing,56,History,Medium,Short Answer,True,135.28,1.0
+12,Male,Reading/Writing,66,Math,Medium,True/False,False,289.41,0.0
+18,Male,Reading/Writing,80,Geography,Easy,True/False,True,55.93,1.0
+16,Male,Reading/Writing,77,English,Easy,True/False,True,221.9,1.0
+15,Female,Reading/Writing,83,Math,Medium,True/False,True,13.4,1.0
+12,Male,Kinesthetic,96,Math,Hard,Essay,True,246.21,0.3333333333333333
+17,Female,Kinesthetic,74,Science,Medium,Short Answer,True,30.78,0.5
+12,Male,Reading/Writing,56,English,Easy,Short Answer,True,29.48,1.0
+12,Male,Auditory,75,Geography,Hard,Essay,False,297.16,0.0
+18,Female,Visual,66,Science,Hard,Short Answer,True,297.12,1.0
+15,Male,Visual,54,Science,Hard,Multiple Choice,True,223.56,1.0
+16,Female,Visual,57,Geography,Easy,Multiple Choice,True,92.74,1.0
+14,Female,Visual,76,Science,Easy,Essay,False,97.44,0.0
+12,Male,Reading/Writing,58,English,Easy,Essay,True,54.06,1.0
+15,Female,Visual,54,Math,Easy,Short Answer,True,182.14,1.0
+16,Male,Auditory,61,History,Easy,True/False,True,103.98,1.0
+12,Female,Auditory,83,English,Medium,Multiple Choice,False,174.33,0.0
+14,Male,Reading/Writing,59,Math,Hard,Essay,True,69.02,1.0
+17,Female,Visual,61,Geography,Medium,Short Answer,False,254.4,0.0
+17,Male,Visual,80,Science,Medium,True/False,False,22.26,0.0
+13,Female,Reading/Writing,72,Math,Hard,Short Answer,True,280.92,1.0
+13,Male,Visual,65,English,Medium,Essay,True,215.71,1.0
+15,Female,Auditory,62,Science,Medium,Essay,False,293.0,0.0
+14,Male,Reading/Writing,75,English,Hard,Multiple Choice,True,142.33,1.0
+15,Male,Visual,55,Geography,Hard,True/False,False,231.03,0.0
+17,Female,Auditory,100,English,Easy,Multiple Choice,True,162.68,0.3333333333333333
+12,Male,Auditory,85,Math,Medium,Multiple Choice,True,148.9,1.0
+12,Female,Visual,78,Science,Hard,Essay,False,216.21,0.0
+18,Female,Kinesthetic,95,Geography,Easy,Short Answer,True,104.13,1.0
+18,Male,Visual,70,Geography,Easy,Short Answer,False,152.04,0.0
+17,Male,Visual,88,Geography,Medium,Essay,False,89.13,0.0
+17,Male,Visual,62,Science,Hard,True/False,False,235.21,0.0
+12,Male,Reading/Writing,60,History,Easy,Essay,False,137.26,0.0
+17,Male,Visual,95,English,Hard,Short Answer,True,298.64,0.5
+18,Female,Kinesthetic,54,English,Easy,Essay,False,110.64,0.0
+17,Female,Visual,95,Geography,Hard,Multiple Choice,True,232.28,0.5
+16,Male,Kinesthetic,92,Math,Easy,True/False,False,49.99,0.0
+12,Male,Reading/Writing,56,Science,Medium,Multiple Choice,False,43.36,0.0
+15,Female,Visual,65,Geography,Hard,Essay,False,217.08,0.0
+16,Male,Auditory,70,Geography,Easy,True/False,False,178.99,0.0
+18,Female,Visual,74,History,Medium,Multiple Choice,True,59.81,1.0
+14,Female,Kinesthetic,57,History,Hard,Short Answer,True,69.08,1.0
+13,Male,Auditory,81,Geography,Hard,Essay,False,208.96,0.0
+14,Male,Visual,55,History,Hard,Essay,False,13.27,0.0
+14,Male,Auditory,63,Geography,Medium,Short Answer,True,57.84,0.5
+17,Male,Auditory,94,English,Medium,Multiple Choice,True,283.64,1.0
+16,Female,Kinesthetic,68,Science,Easy,Essay,False,297.86,0.0
+18,Male,Kinesthetic,77,Geography,Medium,Essay,False,173.39,0.0
+18,Male,Visual,71,Math,Medium,Short Answer,False,297.56,0.0
+12,Male,Kinesthetic,98,Geography,Hard,Multiple Choice,False,132.25,0.0
+17,Female,Reading/Writing,75,Science,Easy,Multiple Choice,False,145.82,0.0
+14,Female,Kinesthetic,61,History,Medium,Multiple Choice,True,260.66,1.0
+13,Male,Kinesthetic,93,Science,Hard,Short Answer,True,162.89,1.0
+16,Male,Auditory,79,History,Medium,True/False,False,164.52,0.0
+13,Male,Reading/Writing,95,History,Hard,Essay,True,147.41,1.0
+16,Male,Kinesthetic,51,Science,Easy,Multiple Choice,True,285.46,1.0
+15,Male,Visual,63,History,Medium,Essay,True,261.4,0.5
+12,Female,Reading/Writing,61,History,Hard,True/False,False,260.82,0.0
+15,Female,Kinesthetic,89,Math,Hard,True/False,True,291.96,0.3333333333333333
+14,Male,Visual,62,Science,Hard,True/False,True,296.46,1.0
+16,Male,Reading/Writing,72,Math,Medium,True/False,False,157.86,0.0
+13,Male,Reading/Writing,50,Science,Easy,Multiple Choice,True,17.86,1.0
+14,Male,Visual,55,Science,Easy,Short Answer,False,222.68,0.0
+12,Female,Kinesthetic,77,Geography,Hard,Short Answer,False,219.47,0.0
+16,Male,Kinesthetic,64,Math,Hard,True/False,False,269.14,0.0
+17,Female,Visual,98,English,Hard,Short Answer,False,47.83,0.0
+16,Female,Reading/Writing,80,History,Medium,Short Answer,True,260.13,0.5
+12,Male,Visual,78,English,Hard,Short Answer,False,254.99,0.0
+14,Male,Reading/Writing,69,English,Hard,True/False,False,227.61,0.0
+14,Female,Kinesthetic,87,Math,Hard,Essay,False,68.81,0.0
+14,Female,Visual,87,Science,Medium,Short Answer,False,100.49,0.0
+18,Male,Kinesthetic,64,Geography,Easy,Short Answer,True,149.27,1.0
+17,Female,Kinesthetic,89,History,Easy,Short Answer,True,17.09,1.0
+14,Female,Auditory,86,Math,Hard,Multiple Choice,False,106.26,0.0
+12,Female,Kinesthetic,62,Geography,Medium,Short Answer,False,41.77,0.0
+16,Female,Kinesthetic,75,History,Easy,Essay,False,79.08,0.0
+12,Female,Auditory,59,Math,Hard,Essay,False,284.46,0.0
+15,Male,Visual,78,English,Medium,Short Answer,True,64.37,1.0
+16,Male,Reading/Writing,86,Geography,Medium,Essay,False,260.08,0.0
+13,Male,Reading/Writing,81,Math,Medium,Multiple Choice,False,47.75,0.0
+12,Female,Kinesthetic,92,English,Hard,Essay,False,42.28,0.0
+18,Female,Reading/Writing,92,Math,Medium,True/False,False,194.84,0.0
+14,Male,Auditory,79,History,Hard,Multiple Choice,False,163.97,0.0
+15,Male,Kinesthetic,94,Science,Medium,True/False,False,247.28,0.0
+16,Female,Visual,66,Science,Hard,True/False,False,55.51,0.0
+12,Female,Reading/Writing,76,Science,Medium,Short Answer,False,267.06,0.0
+15,Male,Visual,56,Science,Medium,True/False,False,27.5,0.0
+15,Female,Auditory,76,Science,Hard,Multiple Choice,True,81.28,1.0
+13,Male,Auditory,70,Math,Medium,Short Answer,True,110.04,1.0
+17,Female,Reading/Writing,99,Math,Medium,Essay,True,160.95,1.0
+14,Male,Auditory,90,Science,Medium,True/False,True,293.28,1.0
+17,Female,Kinesthetic,83,Geography,Easy,True/False,True,41.66,1.0
+15,Female,Auditory,53,English,Easy,Short Answer,False,261.4,0.0
+14,Female,Kinesthetic,54,English,Hard,Essay,True,271.8,1.0
+16,Male,Reading/Writing,54,Math,Medium,Essay,False,219.92,0.0
+15,Male,Reading/Writing,60,Geography,Medium,Essay,True,176.96,1.0
+12,Female,Visual,100,History,Medium,Short Answer,True,40.29,1.0
+12,Female,Auditory,94,History,Hard,Essay,False,118.34,0.0
+14,Male,Kinesthetic,92,History,Easy,True/False,False,204.28,0.0
+12,Male,Reading/Writing,65,Math,Medium,Essay,True,240.51,1.0
+12,Female,Reading/Writing,65,English,Easy,Essay,True,167.65,1.0
+12,Male,Reading/Writing,62,History,Hard,True/False,False,91.7,0.0
+18,Male,Kinesthetic,88,Math,Hard,Short Answer,False,10.59,0.0
+12,Female,Reading/Writing,78,English,Medium,Short Answer,False,45.94,0.0
+14,Female,Reading/Writing,92,English,Hard,Short Answer,True,225.35,1.0
+17,Male,Visual,93,Science,Easy,True/False,False,284.0,0.0
+16,Female,Reading/Writing,55,Math,Hard,True/False,False,255.72,0.0
+12,Male,Auditory,80,English,Medium,True/False,False,70.98,0.0
+14,Male,Reading/Writing,75,Math,Hard,Essay,False,271.34,0.0
+15,Male,Auditory,67,English,Easy,Multiple Choice,False,109.77,0.0
+13,Male,Reading/Writing,89,Math,Medium,True/False,False,106.29,0.0
+12,Female,Visual,96,Science,Easy,Essay,True,251.45,1.0
+15,Male,Kinesthetic,80,Math,Easy,Multiple Choice,False,131.91,0.0
+14,Female,Auditory,63,Math,Hard,Essay,True,196.0,0.5
+18,Male,Auditory,75,History,Medium,Short Answer,True,21.82,1.0
+17,Male,Auditory,75,Science,Easy,True/False,True,274.52,1.0
+16,Male,Auditory,90,English,Medium,Essay,False,216.24,0.0
+18,Male,Auditory,50,Math,Medium,Essay,True,154.85,1.0
+17,Female,Kinesthetic,89,Science,Easy,Essay,False,234.03,0.0
+14,Male,Kinesthetic,74,History,Medium,Multiple Choice,True,51.76,1.0
+18,Female,Kinesthetic,52,History,Medium,Essay,False,166.5,0.0
+15,Male,Visual,97,Science,Hard,Short Answer,False,235.66,0.0
+18,Female,Auditory,82,Geography,Hard,True/False,True,282.5,0.5
+14,Male,Kinesthetic,82,English,Easy,Short Answer,False,232.51,0.0
+16,Female,Visual,92,English,Easy,Multiple Choice,True,67.28,1.0
+12,Female,Auditory,99,English,Easy,Short Answer,False,77.39,0.0
+16,Male,Reading/Writing,53,Math,Easy,Short Answer,True,144.38,1.0
+12,Male,Reading/Writing,50,Math,Medium,Essay,False,61.95,0.0
+17,Female,Auditory,60,Geography,Easy,Multiple Choice,False,61.73,0.0
+15,Female,Reading/Writing,98,History,Easy,True/False,True,74.9,0.5
+15,Male,Reading/Writing,76,Math,Hard,Short Answer,False,220.22,0.0
+17,Male,Reading/Writing,57,Science,Easy,Essay,False,128.76,0.0
+17,Female,Visual,55,Science,Hard,True/False,False,120.53,0.0
+18,Female,Visual,96,Geography,Easy,True/False,False,141.81,0.0
+16,Female,Visual,88,English,Medium,Multiple Choice,True,165.1,1.0
+18,Female,Reading/Writing,70,English,Hard,Multiple Choice,True,153.91,1.0
+15,Female,Visual,82,English,Medium,Short Answer,True,219.22,1.0
+17,Female,Reading/Writing,57,Science,Hard,Multiple Choice,True,142.3,1.0
+12,Male,Reading/Writing,99,History,Medium,Essay,True,287.32,1.0
+14,Female,Kinesthetic,93,English,Easy,Short Answer,True,284.33,1.0
+14,Male,Reading/Writing,78,Science,Medium,Essay,True,254.38,0.5
+15,Male,Auditory,82,Geography,Easy,True/False,True,185.33,1.0
+16,Male,Visual,74,Science,Medium,True/False,False,41.69,0.0
+18,Male,Reading/Writing,85,English,Easy,Multiple Choice,False,101.28,0.0
+17,Male,Visual,82,Math,Medium,Multiple Choice,False,132.98,0.0
+18,Male,Auditory,50,Science,Medium,Short Answer,False,83.94,0.0
+16,Female,Kinesthetic,84,English,Easy,Multiple Choice,False,228.88,0.0
+14,Female,Visual,54,Math,Hard,True/False,True,20.77,0.3333333333333333
+16,Male,Auditory,57,English,Medium,Multiple Choice,False,145.96,0.0
+16,Female,Visual,89,Geography,Easy,Multiple Choice,True,143.7,1.0
+12,Female,Auditory,96,History,Easy,True/False,True,232.08,1.0
+16,Male,Visual,62,English,Medium,Multiple Choice,True,280.26,0.5
+12,Female,Visual,83,Math,Medium,Multiple Choice,False,280.9,0.0
+16,Female,Kinesthetic,90,History,Easy,True/False,True,273.2,1.0
+17,Female,Kinesthetic,79,Math,Medium,Multiple Choice,False,266.07,0.0
+13,Male,Auditory,78,Math,Hard,True/False,True,257.03,1.0
+13,Female,Reading/Writing,79,History,Hard,True/False,False,12.14,0.0
+14,Male,Kinesthetic,96,History,Hard,True/False,False,158.63,0.0
+14,Male,Kinesthetic,55,Geography,Hard,Essay,True,41.08,0.5
+17,Male,Reading/Writing,58,Geography,Medium,Multiple Choice,False,184.71,0.0
+13,Male,Visual,52,English,Medium,Multiple Choice,True,45.06,1.0
+16,Female,Reading/Writing,98,Science,Hard,True/False,False,159.08,0.0
+16,Female,Reading/Writing,83,History,Easy,True/False,True,169.51,1.0
+16,Female,Auditory,72,Math,Hard,True/False,True,124.37,1.0
+12,Male,Visual,82,Science,Medium,Essay,True,49.24,0.5
+12,Female,Reading/Writing,97,Math,Medium,Essay,False,31.99,0.0
+17,Female,Auditory,86,History,Hard,Essay,False,266.67,0.0
+18,Male,Auditory,66,History,Easy,Short Answer,True,210.34,1.0
+15,Female,Reading/Writing,71,Science,Easy,Multiple Choice,True,36.46,1.0
+14,Male,Kinesthetic,82,Science,Hard,Short Answer,False,218.17,0.0
+13,Male,Kinesthetic,76,Science,Medium,Essay,True,296.79,1.0
+17,Male,Visual,73,Geography,Easy,True/False,True,123.52,1.0
+18,Female,Visual,57,Math,Hard,True/False,True,192.29,1.0
+15,Female,Auditory,65,Science,Medium,Multiple Choice,False,14.45,0.0
+14,Male,Visual,92,History,Easy,Short Answer,True,244.5,1.0
+16,Female,Visual,69,History,Hard,Multiple Choice,False,115.88,0.0
+14,Female,Auditory,54,Geography,Medium,Short Answer,False,102.79,0.0
+15,Female,Reading/Writing,64,English,Easy,Essay,True,46.7,1.0
+12,Male,Kinesthetic,52,Science,Hard,Essay,False,53.12,0.0
+18,Male,Kinesthetic,84,History,Hard,Short Answer,False,243.94,0.0
+12,Female,Kinesthetic,87,Geography,Hard,Multiple Choice,True,267.07,1.0
+13,Female,Visual,97,Math,Easy,True/False,True,237.74,1.0
+15,Male,Auditory,53,Math,Medium,Short Answer,True,241.58,1.0
+16,Female,Kinesthetic,98,Math,Hard,True/False,False,15.56,0.0
+14,Female,Auditory,94,Math,Medium,Multiple Choice,False,74.24,0.0
+12,Female,Auditory,58,Geography,Easy,Essay,False,25.47,0.0
+14,Female,Auditory,74,History,Hard,True/False,False,107.28,0.0
+14,Male,Reading/Writing,88,Science,Easy,Multiple Choice,True,151.53,0.5
+17,Male,Auditory,52,History,Easy,Multiple Choice,True,243.7,1.0
+13,Female,Visual,82,English,Medium,Short Answer,False,14.69,0.0
+14,Female,Kinesthetic,82,English,Easy,Essay,True,175.48,0.5
+17,Female,Auditory,54,Science,Hard,Multiple Choice,False,265.59,0.0
+12,Male,Kinesthetic,100,History,Easy,True/False,True,17.26,1.0
+15,Male,Auditory,70,Science,Medium,Essay,True,178.81,1.0
+15,Female,Reading/Writing,90,History,Easy,Essay,True,46.5,0.5
+13,Female,Auditory,76,History,Hard,Essay,True,263.62,1.0
+12,Male,Auditory,65,Science,Medium,True/False,True,158.95,1.0
+17,Male,Kinesthetic,64,Math,Medium,True/False,False,69.17,0.0
+16,Male,Auditory,74,English,Hard,Essay,True,221.73,1.0
+14,Male,Reading/Writing,95,History,Hard,True/False,True,216.41,1.0
+16,Male,Auditory,95,Science,Easy,True/False,True,216.42,1.0
+16,Male,Kinesthetic,96,Science,Easy,Multiple Choice,True,150.61,1.0
+18,Male,Kinesthetic,80,Science,Hard,Essay,True,125.7,1.0
+16,Female,Visual,100,Science,Easy,Short Answer,True,81.09,1.0
+14,Female,Auditory,50,English,Medium,Short Answer,False,282.16,0.0
+16,Female,Kinesthetic,63,Geography,Medium,Short Answer,True,274.92,1.0
+16,Male,Auditory,81,History,Hard,Multiple Choice,True,95.04,1.0
+14,Male,Kinesthetic,57,Geography,Easy,True/False,True,72.25,1.0
+15,Male,Kinesthetic,72,History,Hard,Short Answer,False,71.22,0.0
+18,Male,Kinesthetic,51,Math,Hard,Multiple Choice,True,149.04,1.0
+16,Female,Kinesthetic,53,History,Medium,True/False,False,198.22,0.0
+13,Female,Kinesthetic,79,Math,Easy,Multiple Choice,False,129.47,0.0
+14,Male,Visual,60,Geography,Hard,True/False,True,45.3,1.0
+15,Female,Auditory,60,Science,Easy,Essay,True,248.84,1.0
+12,Male,Kinesthetic,98,Science,Medium,True/False,False,84.0,0.0
+16,Male,Kinesthetic,78,Science,Hard,True/False,True,171.0,1.0
+16,Female,Visual,94,History,Hard,Essay,True,54.36,0.5
+18,Male,Kinesthetic,85,Math,Medium,True/False,False,204.53,0.0
+15,Male,Auditory,91,Geography,Hard,Multiple Choice,True,154.91,0.5
+12,Female,Kinesthetic,51,English,Easy,Multiple Choice,False,81.8,0.0
+13,Female,Kinesthetic,84,English,Easy,Multiple Choice,True,226.57,0.3333333333333333
+18,Female,Visual,66,History,Easy,True/False,True,275.37,1.0
+14,Male,Reading/Writing,67,Geography,Medium,True/False,True,266.91,0.5
+15,Male,Auditory,87,Science,Medium,Multiple Choice,True,152.7,1.0
+15,Female,Auditory,84,Science,Medium,Short Answer,False,272.75,0.0
+16,Male,Kinesthetic,89,Math,Hard,Multiple Choice,True,255.55,1.0
+15,Male,Kinesthetic,91,Geography,Hard,Essay,False,183.69,0.0
+13,Male,Auditory,93,Science,Easy,Multiple Choice,False,161.92,0.0
+12,Male,Kinesthetic,60,Science,Medium,True/False,True,147.81,1.0
+16,Female,Reading/Writing,90,Science,Medium,Essay,True,163.9,1.0
+13,Male,Reading/Writing,98,Geography,Medium,Multiple Choice,True,118.11,1.0
+15,Female,Auditory,65,History,Medium,True/False,True,148.5,0.5
+16,Male,Kinesthetic,92,History,Hard,Short Answer,True,143.93,1.0
+13,Female,Visual,59,English,Medium,Short Answer,True,127.69,1.0
+17,Male,Visual,75,Math,Easy,Short Answer,False,200.13,0.0
+13,Male,Visual,53,Math,Hard,Multiple Choice,True,236.66,1.0
+12,Male,Auditory,85,Science,Easy,Short Answer,False,182.72,0.0
+16,Female,Visual,89,English,Medium,Short Answer,True,37.4,1.0
+12,Male,Auditory,78,Geography,Hard,Multiple Choice,True,134.57,1.0
+14,Female,Auditory,62,Math,Medium,Essay,False,52.84,0.0
+14,Male,Kinesthetic,57,English,Hard,Short Answer,True,265.76,1.0
+18,Female,Auditory,71,Geography,Medium,Short Answer,False,86.65,0.0
+18,Female,Auditory,56,Math,Hard,Multiple Choice,False,81.91,0.0
+14,Male,Kinesthetic,78,English,Hard,Essay,False,83.81,0.0
+15,Male,Visual,51,Math,Medium,True/False,False,11.83,0.0
+13,Female,Auditory,67,Science,Easy,True/False,False,143.99,0.0
+17,Male,Reading/Writing,61,Science,Medium,True/False,True,281.96,1.0
+17,Male,Reading/Writing,83,English,Easy,True/False,False,171.59,0.0
+13,Male,Visual,99,Science,Medium,True/False,True,76.09,0.5
+14,Female,Reading/Writing,74,Geography,Hard,Essay,True,192.29,1.0
+16,Female,Auditory,78,English,Hard,Multiple Choice,True,222.39,1.0
+18,Male,Auditory,78,Math,Medium,True/False,False,12.59,0.0
+12,Male,Visual,68,History,Hard,Essay,False,90.66,0.0
+17,Male,Visual,61,English,Medium,Short Answer,False,141.74,0.0
+18,Female,Auditory,78,History,Easy,Essay,False,260.4,0.0
+18,Male,Auditory,60,History,Hard,True/False,False,146.71,0.0
+18,Male,Visual,78,Math,Easy,Short Answer,True,174.67,1.0
+13,Female,Kinesthetic,90,Science,Easy,Multiple Choice,False,179.06,0.0
+18,Female,Visual,62,Geography,Hard,Multiple Choice,False,23.16,0.0
+16,Female,Kinesthetic,96,Math,Hard,Essay,False,13.4,0.0
+16,Female,Auditory,71,Science,Hard,Short Answer,False,243.78,0.0
+16,Female,Kinesthetic,92,English,Medium,Short Answer,False,231.06,0.0
+13,Female,Auditory,64,Geography,Hard,Essay,False,180.18,0.0
+14,Male,Auditory,50,Science,Hard,Short Answer,True,285.9,1.0
+13,Female,Kinesthetic,72,History,Medium,Essay,False,236.83,0.0
+16,Female,Visual,86,Math,Easy,Essay,False,75.66,0.0
+15,Male,Kinesthetic,60,Geography,Easy,True/False,True,28.12,1.0
+15,Female,Visual,96,Science,Hard,Short Answer,True,242.31,1.0
+17,Female,Auditory,78,Science,Hard,Multiple Choice,True,242.07,1.0
+15,Female,Auditory,94,Geography,Medium,Essay,False,170.44,0.0
+17,Male,Auditory,87,English,Medium,Short Answer,True,88.25,1.0
+17,Male,Reading/Writing,93,Geography,Hard,Short Answer,False,146.61,0.0
+17,Male,Reading/Writing,75,English,Hard,Short Answer,False,139.82,0.0
+13,Male,Kinesthetic,61,English,Medium,Essay,False,173.31,0.0
+14,Male,Reading/Writing,81,Math,Hard,True/False,False,92.37,0.0
+13,Male,Kinesthetic,95,Science,Easy,True/False,False,16.92,0.0
+14,Female,Kinesthetic,52,English,Easy,Essay,False,147.55,0.0
+15,Male,Reading/Writing,60,English,Medium,Multiple Choice,False,108.3,0.0
+17,Male,Reading/Writing,59,English,Hard,Multiple Choice,True,278.18,1.0
+18,Female,Kinesthetic,99,English,Hard,Multiple Choice,True,138.12,1.0
+18,Male,Auditory,65,Math,Easy,Essay,False,266.02,0.0
+18,Male,Reading/Writing,58,English,Easy,Essay,False,190.26,0.0
+13,Female,Reading/Writing,51,Geography,Easy,Essay,True,257.47,1.0
+17,Male,Reading/Writing,99,Geography,Medium,Short Answer,True,32.0,1.0
+17,Female,Visual,91,Science,Medium,Essay,True,257.42,1.0
+14,Male,Auditory,90,Math,Hard,True/False,True,192.72,1.0
+15,Male,Auditory,99,History,Hard,True/False,True,120.87,1.0
+16,Female,Auditory,71,History,Easy,Short Answer,True,195.42,1.0
+12,Female,Kinesthetic,72,Math,Easy,Multiple Choice,False,273.33,0.0
+16,Male,Visual,71,Science,Easy,True/False,False,186.71,0.0
+17,Male,Visual,75,English,Medium,Multiple Choice,False,216.03,0.0
+15,Male,Kinesthetic,84,English,Easy,Essay,False,106.37,0.0
+18,Female,Auditory,54,English,Medium,Short Answer,False,124.67,0.0
+12,Male,Reading/Writing,98,History,Easy,Essay,False,295.92,0.0
+13,Male,Visual,93,English,Medium,True/False,True,236.64,0.5
+18,Female,Visual,61,Science,Hard,True/False,True,271.46,0.5
+14,Male,Auditory,76,English,Medium,True/False,True,249.68,1.0
+15,Male,Reading/Writing,71,Math,Hard,Essay,True,19.87,0.5
+18,Male,Kinesthetic,76,Geography,Medium,Multiple Choice,True,174.94,1.0
+12,Female,Auditory,74,Geography,Medium,Short Answer,False,255.52,0.0
+16,Female,Visual,90,Science,Medium,Multiple Choice,False,48.05,0.0
+18,Female,Visual,50,Science,Easy,Multiple Choice,True,113.23,1.0
+12,Male,Auditory,76,English,Easy,Short Answer,True,260.45,1.0
+18,Female,Auditory,91,History,Medium,Multiple Choice,True,160.45,1.0
+17,Female,Reading/Writing,88,English,Easy,Essay,True,28.37,1.0
+17,Female,Reading/Writing,55,Math,Easy,True/False,False,14.08,0.0
+14,Male,Reading/Writing,68,English,Hard,Multiple Choice,False,36.51,0.0
+13,Male,Reading/Writing,72,Science,Easy,Short Answer,False,164.2,0.0
+12,Male,Visual,78,Geography,Medium,Essay,True,263.86,1.0
+15,Female,Auditory,76,Math,Easy,Multiple Choice,True,154.11,1.0
+16,Female,Visual,80,English,Medium,Essay,False,114.4,0.0
+14,Male,Auditory,94,Math,Medium,Essay,False,187.15,0.0
+12,Female,Auditory,97,Geography,Hard,Essay,True,38.57,1.0
+16,Female,Visual,61,Geography,Medium,Short Answer,False,232.07,0.0
+16,Male,Visual,95,History,Hard,Short Answer,True,218.19,0.5
+18,Female,Kinesthetic,68,English,Hard,True/False,True,14.69,1.0
+15,Male,Reading/Writing,79,Geography,Easy,True/False,True,10.37,0.5
+16,Male,Kinesthetic,51,Math,Medium,Essay,True,41.73,1.0
+18,Female,Reading/Writing,52,Science,Medium,True/False,True,192.19,1.0
+12,Female,Kinesthetic,75,History,Easy,Multiple Choice,False,265.17,0.0
+15,Male,Visual,96,Science,Easy,True/False,False,98.17,0.0
+14,Female,Reading/Writing,54,Math,Hard,True/False,False,222.36,0.0
+16,Female,Kinesthetic,100,Science,Easy,True/False,True,34.74,1.0
+12,Female,Visual,87,History,Easy,Short Answer,False,11.58,0.0
+15,Male,Kinesthetic,61,Geography,Easy,Multiple Choice,False,80.46,0.0
+12,Male,Visual,60,Geography,Easy,True/False,True,277.54,1.0
+13,Female,Reading/Writing,90,Math,Easy,Short Answer,False,204.89,0.0
+13,Male,Auditory,64,English,Easy,Essay,False,183.04,0.0
+12,Male,Auditory,91,History,Medium,Short Answer,False,61.45,0.0
+14,Male,Reading/Writing,59,Science,Medium,Essay,True,227.9,0.5
+18,Male,Kinesthetic,65,History,Easy,True/False,False,264.88,0.0
+15,Male,Reading/Writing,52,History,Medium,Short Answer,True,291.09,1.0
+13,Female,Visual,74,Science,Hard,Multiple Choice,True,46.08,1.0
+16,Female,Kinesthetic,67,History,Medium,Multiple Choice,True,285.15,1.0
+12,Female,Reading/Writing,50,English,Easy,Essay,True,154.24,1.0
+16,Male,Visual,51,Geography,Easy,Short Answer,False,248.66,0.0
+15,Female,Kinesthetic,74,History,Easy,True/False,False,150.67,0.0
+13,Male,Auditory,74,English,Easy,True/False,True,90.44,1.0
+18,Male,Visual,88,Geography,Hard,Multiple Choice,False,150.82,0.0
+18,Male,Auditory,93,History,Hard,Short Answer,True,56.65,1.0
+13,Female,Reading/Writing,71,Math,Medium,True/False,True,114.59,1.0
+16,Female,Visual,76,Science,Hard,True/False,False,126.29,0.0
+14,Female,Auditory,64,History,Easy,True/False,True,249.69,1.0
+18,Male,Reading/Writing,61,Math,Hard,Multiple Choice,True,191.54,1.0
+14,Male,Auditory,95,History,Hard,Essay,True,69.18,0.5
+12,Male,Kinesthetic,96,English,Hard,Short Answer,True,267.37,1.0
+15,Male,Auditory,59,History,Medium,Essay,True,250.61,1.0
+18,Male,Kinesthetic,84,Math,Medium,Short Answer,True,147.44,0.5
+15,Female,Visual,74,Math,Hard,Short Answer,False,44.45,0.0
+13,Female,Reading/Writing,87,English,Easy,True/False,True,78.63,1.0
+14,Female,Reading/Writing,100,Science,Medium,Essay,True,131.21,0.5
+16,Male,Reading/Writing,50,Science,Easy,Essay,True,275.29,1.0
+15,Female,Auditory,53,Math,Hard,True/False,False,113.15,0.0
+13,Male,Kinesthetic,59,Math,Easy,True/False,True,229.19,1.0
+18,Male,Auditory,53,Science,Hard,Short Answer,False,268.22,0.0
+17,Female,Auditory,98,Science,Medium,Essay,False,78.95,0.0
+15,Male,Reading/Writing,56,Science,Easy,True/False,False,49.21,0.0
+17,Female,Reading/Writing,76,English,Medium,Essay,True,260.47,1.0
+16,Female,Visual,61,History,Easy,Essay,True,280.76,1.0
+17,Male,Reading/Writing,64,History,Easy,Short Answer,True,146.2,1.0
+15,Male,Auditory,53,Math,Hard,True/False,True,199.91,1.0
+16,Male,Kinesthetic,97,Geography,Medium,Essay,False,89.88,0.0
+17,Male,Auditory,94,English,Easy,Multiple Choice,True,115.06,1.0
+12,Male,Visual,98,English,Easy,True/False,False,120.38,0.0
+12,Female,Visual,51,History,Hard,Short Answer,False,282.06,0.0
+15,Male,Visual,72,Geography,Medium,Multiple Choice,True,35.16,1.0
+18,Female,Reading/Writing,54,Science,Hard,Short Answer,False,191.4,0.0
+16,Female,Reading/Writing,67,English,Hard,Multiple Choice,True,217.43,1.0
+18,Male,Visual,60,Math,Medium,Short Answer,False,59.6,0.0
+16,Male,Kinesthetic,93,Geography,Easy,Multiple Choice,True,204.41,1.0
+12,Male,Visual,79,Geography,Easy,Essay,False,292.68,0.0
+12,Male,Auditory,65,English,Medium,Multiple Choice,True,153.84,1.0
+18,Female,Visual,56,History,Easy,Short Answer,False,288.4,0.0
+12,Female,Visual,79,Science,Hard,Essay,True,10.31,1.0
+12,Male,Visual,83,Geography,Medium,Multiple Choice,True,42.42,1.0
+13,Male,Kinesthetic,62,History,Hard,Essay,True,14.34,1.0
+14,Male,Auditory,96,History,Hard,Essay,True,287.65,1.0
+17,Female,Reading/Writing,58,Science,Easy,True/False,False,124.72,0.0
+14,Male,Reading/Writing,58,English,Medium,Essay,True,275.88,1.0
+17,Male,Visual,71,Geography,Hard,Essay,True,134.76,1.0
+12,Male,Kinesthetic,87,Science,Hard,Multiple Choice,True,16.54,0.5
+13,Female,Visual,83,Science,Medium,Multiple Choice,True,119.76,1.0
+16,Female,Auditory,77,History,Medium,Essay,False,270.85,0.0
+14,Male,Reading/Writing,73,English,Easy,Multiple Choice,False,47.16,0.0
+17,Male,Auditory,96,History,Easy,True/False,True,196.43,1.0
+17,Female,Reading/Writing,53,Math,Hard,Multiple Choice,False,200.14,0.0
+14,Male,Auditory,64,History,Easy,Multiple Choice,False,122.63,0.0
+15,Male,Kinesthetic,94,English,Easy,Multiple Choice,True,54.53,1.0
+13,Female,Reading/Writing,75,Math,Medium,True/False,False,51.51,0.0
+17,Female,Visual,88,English,Medium,Essay,False,219.77,0.0
+16,Female,Auditory,60,History,Medium,Multiple Choice,False,75.97,0.0
+18,Male,Auditory,92,Math,Hard,Short Answer,True,37.72,1.0
+14,Male,Kinesthetic,62,History,Medium,True/False,True,158.87,1.0
+14,Male,Auditory,53,Math,Hard,Multiple Choice,False,279.24,0.0
+12,Female,Auditory,64,English,Hard,Multiple Choice,True,252.67,1.0
+12,Male,Kinesthetic,56,Math,Hard,Essay,False,244.17,0.0
+12,Male,Kinesthetic,68,Math,Hard,Multiple Choice,True,289.38,1.0
+14,Female,Visual,75,Math,Medium,True/False,False,179.66,0.0
+17,Female,Auditory,51,History,Easy,Multiple Choice,True,94.7,1.0
+18,Male,Kinesthetic,61,Math,Medium,Short Answer,False,64.79,0.0
+14,Male,Kinesthetic,99,English,Hard,Short Answer,True,296.92,1.0
+17,Female,Reading/Writing,88,Science,Easy,Short Answer,False,220.97,0.0
+12,Female,Reading/Writing,65,Science,Hard,Multiple Choice,True,169.65,1.0
+15,Male,Reading/Writing,53,Geography,Hard,Multiple Choice,True,103.83,1.0
+17,Female,Auditory,98,English,Hard,True/False,True,26.15,1.0
+14,Female,Visual,59,Science,Hard,Essay,True,239.49,1.0
+13,Female,Kinesthetic,76,History,Medium,Essay,False,252.22,0.0
+15,Female,Visual,75,English,Easy,True/False,False,239.34,0.0
+12,Female,Visual,83,Geography,Easy,Multiple Choice,True,121.15,1.0
+12,Male,Kinesthetic,69,English,Easy,Essay,False,140.21,0.0
+18,Male,Kinesthetic,89,History,Hard,True/False,True,124.83,1.0
+16,Female,Visual,51,English,Easy,Essay,False,53.09,0.0
+18,Female,Reading/Writing,60,History,Easy,Short Answer,False,256.16,0.0
+17,Male,Visual,80,English,Easy,Short Answer,True,174.96,1.0
+14,Female,Kinesthetic,77,History,Easy,True/False,False,195.68,0.0
+17,Male,Auditory,100,Science,Hard,Multiple Choice,False,189.03,0.0
+15,Male,Reading/Writing,51,Geography,Medium,Short Answer,False,138.98,0.0
+12,Female,Kinesthetic,78,Science,Hard,Multiple Choice,True,207.86,1.0
+12,Male,Reading/Writing,74,Math,Hard,True/False,False,240.58,0.0
+12,Male,Reading/Writing,59,English,Easy,Essay,True,162.55,1.0
+16,Female,Kinesthetic,61,Geography,Medium,Essay,False,74.3,0.0
+17,Male,Reading/Writing,91,Geography,Hard,Multiple Choice,True,160.24,1.0
+13,Female,Kinesthetic,95,Science,Hard,Short Answer,False,244.19,0.0
+16,Female,Kinesthetic,66,Science,Easy,Short Answer,False,73.05,0.0
+18,Male,Reading/Writing,62,History,Easy,Short Answer,False,223.77,0.0
+14,Male,Reading/Writing,97,History,Easy,Essay,True,26.75,1.0
+12,Female,Kinesthetic,78,History,Hard,True/False,True,290.98,1.0
+15,Male,Visual,66,History,Easy,Essay,True,164.03,1.0
+12,Male,Auditory,55,Geography,Hard,Multiple Choice,True,117.47,1.0
+13,Male,Visual,70,Science,Easy,Multiple Choice,False,90.79,0.0
+16,Female,Reading/Writing,70,History,Hard,True/False,False,214.57,0.0
+17,Male,Auditory,50,English,Medium,True/False,False,205.21,0.0
+14,Male,Visual,98,Science,Easy,Essay,False,298.79,0.0
+17,Female,Visual,97,Math,Medium,True/False,False,233.55,0.0
+14,Male,Reading/Writing,52,History,Hard,Essay,False,35.16,0.0
+15,Female,Auditory,64,History,Easy,Short Answer,True,33.08,1.0
+12,Female,Kinesthetic,67,Math,Hard,Short Answer,False,66.1,0.0
+16,Female,Kinesthetic,62,Geography,Easy,Short Answer,False,64.42,0.0
+13,Female,Kinesthetic,78,Science,Medium,Short Answer,False,122.7,0.0
+15,Female,Kinesthetic,86,Geography,Hard,Short Answer,False,72.12,0.0
+12,Male,Auditory,72,Geography,Medium,Multiple Choice,True,102.2,0.5
+18,Female,Visual,100,English,Easy,True/False,False,247.18,0.0
+17,Male,Visual,63,Geography,Easy,Essay,False,72.95,0.0
+17,Male,Visual,99,Science,Easy,Multiple Choice,False,211.92,0.0
+17,Male,Kinesthetic,71,History,Easy,Essay,False,242.21,0.0
+12,Male,Visual,81,Math,Easy,True/False,False,168.2,0.0
+15,Female,Reading/Writing,73,Geography,Hard,Multiple Choice,True,39.23,1.0
+14,Male,Kinesthetic,84,Science,Easy,Short Answer,False,295.93,0.0
+16,Male,Auditory,80,Math,Medium,True/False,False,10.78,0.0
+13,Female,Reading/Writing,52,History,Easy,Essay,False,200.49,0.0
+14,Female,Auditory,95,Geography,Easy,True/False,False,153.14,0.0
+14,Male,Visual,94,English,Hard,True/False,True,68.08,1.0
+16,Female,Kinesthetic,94,Science,Hard,True/False,True,220.1,1.0
+12,Female,Visual,88,English,Hard,Short Answer,False,64.86,0.0
+17,Male,Visual,61,English,Hard,Essay,True,197.08,1.0
+13,Male,Auditory,58,Geography,Easy,Short Answer,True,257.45,1.0
+14,Male,Kinesthetic,83,Math,Medium,Multiple Choice,False,145.42,0.0
+17,Male,Reading/Writing,88,Math,Easy,Short Answer,False,75.88,0.0
+15,Male,Auditory,90,Geography,Medium,Essay,False,173.88,0.0
+15,Female,Visual,73,Math,Hard,Multiple Choice,False,169.82,0.0
+17,Female,Reading/Writing,72,Science,Medium,Multiple Choice,True,99.52,1.0
+15,Male,Auditory,54,Math,Hard,Short Answer,False,48.65,0.0
+14,Male,Kinesthetic,68,Math,Easy,True/False,True,85.37,0.5
+14,Male,Kinesthetic,82,Science,Easy,Multiple Choice,False,232.96,0.0
+18,Male,Auditory,77,Science,Hard,True/False,True,124.31,1.0
+12,Male,Reading/Writing,100,Math,Hard,True/False,False,79.3,0.0
+15,Male,Auditory,93,English,Hard,Short Answer,False,33.85,0.0
+14,Female,Reading/Writing,55,Math,Easy,Essay,False,136.16,0.0
+12,Male,Visual,91,History,Easy,Multiple Choice,False,200.44,0.0
+18,Female,Kinesthetic,88,English,Medium,True/False,True,71.2,0.5
+12,Female,Visual,100,English,Medium,Essay,True,88.39,1.0
+14,Female,Auditory,84,Geography,Hard,Multiple Choice,True,285.95,1.0
+13,Female,Visual,62,Math,Hard,Multiple Choice,False,140.58,0.0
+18,Female,Auditory,57,History,Hard,Multiple Choice,True,267.25,1.0
+13,Male,Kinesthetic,85,Science,Easy,True/False,True,18.84,0.5
+15,Female,Auditory,60,Math,Easy,True/False,False,259.86,0.0
+16,Female,Auditory,91,Math,Hard,Essay,True,55.15,1.0
+14,Male,Auditory,55,English,Hard,Essay,True,92.45,1.0
+14,Female,Auditory,97,Math,Easy,True/False,True,17.25,1.0
+16,Female,Kinesthetic,64,History,Medium,Short Answer,True,13.03,1.0
+16,Female,Visual,95,Math,Medium,True/False,True,41.56,1.0
+15,Female,Reading/Writing,56,History,Hard,Multiple Choice,True,23.54,1.0
+13,Male,Auditory,57,English,Easy,Multiple Choice,True,111.73,1.0
+12,Male,Auditory,64,English,Hard,Multiple Choice,False,232.56,0.0
+15,Female,Auditory,64,English,Medium,True/False,True,103.31,1.0

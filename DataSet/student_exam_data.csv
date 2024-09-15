@@ -1,0 +1,1001 @@
+Student_ID,Age,Gender,Learning_Style,Previous_Score,Subject,Question_ID,Difficulty,Question_Type,Correct,Time_Taken
+S0001,15,Male,Reading/Writing,53,Science,Q190,Hard,Essay,False,78.4
+S0002,17,Male,Auditory,70,Geography,Q458,Medium,True/False,True,48.14
+S0003,18,Male,Kinesthetic,54,English,Q4278,Easy,Essay,True,35.56
+S0004,17,Female,Visual,63,History,Q3667,Hard,Multiple Choice,False,154.44
+S0005,16,Female,Visual,83,Geography,Q737,Easy,True/False,False,24.18
+S0006,13,Male,Visual,63,Geography,Q636,Medium,Short Answer,True,92.4
+S0007,18,Male,Kinesthetic,83,Geography,Q3431,Medium,Multiple Choice,False,218.33
+S0008,18,Female,Kinesthetic,64,Math,Q1871,Medium,Short Answer,True,240.98
+S0009,13,Male,Auditory,88,Geography,Q694,Hard,Multiple Choice,True,126.1
+S0010,17,Female,Visual,61,English,Q3751,Easy,Short Answer,False,29.41
+S0011,18,Male,Kinesthetic,76,Math,Q3381,Hard,Essay,False,186.95
+S0012,17,Female,Kinesthetic,81,Geography,Q1569,Hard,Essay,False,198.89
+S0013,16,Male,Visual,66,Geography,Q806,Easy,True/False,True,293.86
+S0014,13,Male,Visual,57,Science,Q293,Easy,Short Answer,True,178.94
+S0015,15,Male,Kinesthetic,86,English,Q3750,Medium,Short Answer,False,39.92
+S0016,17,Male,Kinesthetic,58,Math,Q2766,Hard,Multiple Choice,True,164.6
+S0017,16,Female,Visual,67,Math,Q3894,Easy,Multiple Choice,True,13.17
+S0018,13,Male,Auditory,91,History,Q4964,Medium,True/False,False,260.61
+S0019,16,Male,Reading/Writing,52,Math,Q1094,Medium,Multiple Choice,True,198.55
+S0020,15,Female,Kinesthetic,63,Geography,Q4890,Hard,True/False,False,224.95
+S0021,13,Male,Reading/Writing,90,Math,Q2907,Hard,Essay,True,23.94
+S0022,17,Female,Reading/Writing,72,History,Q505,Hard,True/False,True,271.98
+S0023,12,Female,Reading/Writing,85,English,Q1932,Easy,Essay,True,65.52
+S0024,15,Female,Kinesthetic,75,Geography,Q3946,Medium,Essay,False,114.93
+S0025,14,Male,Visual,70,History,Q555,Hard,Essay,True,27.84
+S0026,16,Female,Reading/Writing,65,English,Q2976,Medium,Multiple Choice,True,228.09
+S0027,15,Male,Visual,63,English,Q1486,Hard,True/False,True,39.79
+S0028,17,Male,Reading/Writing,69,English,Q3708,Easy,Short Answer,False,259.76
+S0029,14,Male,Kinesthetic,60,Math,Q2883,Easy,True/False,False,142.8
+S0030,12,Female,Reading/Writing,72,English,Q3299,Hard,Short Answer,True,25.55
+S0031,17,Female,Visual,54,Geography,Q3482,Easy,Short Answer,True,162.18
+S0032,15,Male,Kinesthetic,63,English,Q571,Medium,Multiple Choice,False,46.4
+S0033,12,Male,Auditory,93,Geography,Q2962,Hard,Essay,True,201.03
+S0034,12,Female,Auditory,85,English,Q992,Medium,Multiple Choice,True,133.55
+S0035,15,Male,Reading/Writing,64,History,Q4730,Easy,True/False,False,281.04
+S0036,18,Male,Kinesthetic,90,Math,Q1804,Easy,Essay,True,142.68
+S0037,14,Male,Auditory,82,History,Q4161,Easy,Essay,False,187.19
+S0038,18,Female,Auditory,66,Geography,Q2837,Easy,Short Answer,True,203.2
+S0039,16,Male,Auditory,69,Geography,Q3966,Medium,Essay,False,29.18
+S0040,13,Male,Auditory,100,Science,Q4348,Hard,True/False,False,211.31
+S0041,12,Female,Kinesthetic,71,Geography,Q3625,Medium,Multiple Choice,True,48.29
+S0042,14,Male,Auditory,52,English,Q3814,Easy,True/False,False,245.11
+S0043,14,Male,Visual,100,English,Q3865,Hard,True/False,True,287.52
+S0044,18,Female,Auditory,66,Math,Q2273,Medium,Essay,False,275.58
+S0045,14,Female,Kinesthetic,58,Science,Q181,Easy,True/False,True,173.91
+S0046,13,Male,Kinesthetic,62,Geography,Q3851,Hard,Essay,False,285.6
+S0047,17,Male,Auditory,58,History,Q3506,Easy,True/False,True,69.68
+S0048,17,Male,Kinesthetic,88,Math,Q4800,Easy,True/False,False,156.87
+S0049,16,Female,Auditory,76,Science,Q1274,Medium,True/False,True,56.22
+S0050,13,Female,Reading/Writing,66,History,Q2714,Hard,Short Answer,False,38.73
+S0051,15,Female,Kinesthetic,63,Geography,Q4224,Easy,Essay,True,165.13
+S0052,14,Female,Visual,88,Science,Q1539,Easy,Short Answer,True,158.32
+S0053,15,Female,Visual,77,Geography,Q4520,Easy,Essay,False,275.8
+S0054,13,Female,Visual,63,History,Q3947,Easy,Multiple Choice,True,96.96
+S0055,14,Male,Reading/Writing,69,English,Q410,Medium,Multiple Choice,False,64.08
+S0056,18,Female,Kinesthetic,83,Geography,Q3655,Hard,True/False,True,31.83
+S0057,13,Male,Visual,96,Geography,Q395,Medium,Essay,True,154.31
+S0058,16,Male,Reading/Writing,75,Geography,Q3851,Hard,True/False,False,47.43
+S0059,16,Male,Reading/Writing,73,History,Q221,Medium,Essay,True,72.13
+S0060,17,Female,Reading/Writing,77,History,Q1399,Easy,Essay,False,188.82
+S0061,14,Male,Visual,95,History,Q3401,Hard,Short Answer,True,47.4
+S0062,16,Male,Kinesthetic,53,Geography,Q4313,Easy,Essay,False,218.58
+S0063,14,Male,Visual,77,History,Q2133,Medium,Short Answer,False,192.02
+S0064,17,Female,Auditory,66,History,Q418,Hard,True/False,True,158.08
+S0065,18,Female,Auditory,98,Math,Q359,Hard,True/False,False,234.92
+S0066,14,Female,Auditory,92,Math,Q142,Hard,Essay,False,33.96
+S0067,14,Female,Kinesthetic,79,Math,Q2011,Hard,Essay,False,132.27
+S0068,12,Female,Visual,100,English,Q616,Hard,Short Answer,False,78.96
+S0069,17,Female,Reading/Writing,85,Geography,Q4434,Medium,Short Answer,False,256.14
+S0070,13,Female,Auditory,89,Geography,Q1148,Hard,Essay,True,150.37
+S0071,14,Male,Kinesthetic,91,Math,Q4794,Medium,Short Answer,False,41.38
+S0072,15,Male,Reading/Writing,89,Science,Q3684,Medium,Short Answer,True,114.13
+S0073,16,Male,Reading/Writing,86,Science,Q1240,Medium,True/False,False,189.59
+S0074,14,Male,Reading/Writing,75,Science,Q4959,Easy,Essay,False,254.46
+S0075,17,Female,Visual,91,English,Q4597,Easy,Essay,True,77.9
+S0076,15,Male,Auditory,62,English,Q1000,Hard,Short Answer,True,279.32
+S0077,18,Female,Reading/Writing,68,Math,Q1506,Medium,Short Answer,False,159.74
+S0078,13,Female,Reading/Writing,72,History,Q1879,Easy,True/False,True,165.28
+S0079,14,Female,Auditory,51,English,Q4557,Easy,Short Answer,True,281.99
+S0080,17,Female,Kinesthetic,70,Geography,Q1689,Medium,Essay,True,171.8
+S0081,13,Male,Auditory,79,Science,Q2616,Medium,Essay,False,280.91
+S0082,12,Female,Reading/Writing,57,Geography,Q3491,Easy,Short Answer,False,17.66
+S0083,15,Male,Reading/Writing,62,History,Q4773,Easy,Essay,True,143.02
+S0084,15,Female,Visual,76,English,Q735,Hard,True/False,True,201.58
+S0085,13,Female,Visual,63,Math,Q4812,Medium,True/False,True,33.53
+S0086,18,Female,Kinesthetic,52,Science,Q625,Easy,True/False,False,134.99
+S0087,16,Female,Kinesthetic,87,History,Q3208,Hard,Short Answer,True,255.09
+S0088,14,Male,Auditory,55,Geography,Q2262,Medium,Multiple Choice,False,201.56
+S0089,13,Male,Kinesthetic,50,English,Q3572,Hard,Essay,True,130.6
+S0090,14,Male,Auditory,80,English,Q605,Hard,Multiple Choice,False,61.81
+S0091,13,Female,Auditory,73,History,Q899,Easy,True/False,False,103.2
+S0092,13,Female,Kinesthetic,85,History,Q4207,Hard,Essay,False,16.78
+S0093,14,Female,Kinesthetic,90,English,Q529,Hard,True/False,False,178.24
+S0094,15,Male,Reading/Writing,66,Geography,Q871,Medium,Multiple Choice,True,167.85
+S0095,18,Male,Reading/Writing,64,Math,Q2956,Easy,Multiple Choice,True,289.15
+S0096,18,Female,Reading/Writing,75,Math,Q4024,Hard,Essay,False,102.59
+S0097,14,Female,Reading/Writing,66,History,Q2395,Easy,Essay,False,81.71
+S0098,15,Female,Reading/Writing,65,Science,Q1067,Hard,Short Answer,True,270.85
+S0099,13,Female,Reading/Writing,62,Geography,Q3106,Hard,Multiple Choice,True,20.8
+S0100,14,Male,Kinesthetic,99,Science,Q1746,Hard,True/False,False,167.48
+S0101,16,Male,Visual,78,Science,Q2167,Hard,True/False,False,91.83
+S0102,15,Female,Auditory,69,Geography,Q870,Easy,True/False,False,126.64
+S0103,13,Male,Kinesthetic,62,History,Q3009,Hard,True/False,False,210.6
+S0104,14,Female,Kinesthetic,99,History,Q4777,Hard,Essay,False,116.05
+S0105,18,Male,Kinesthetic,71,Math,Q2876,Easy,Essay,False,203.37
+S0106,18,Female,Reading/Writing,83,English,Q1370,Medium,Short Answer,False,175.25
+S0107,16,Female,Reading/Writing,65,Math,Q4658,Easy,Multiple Choice,False,71.61
+S0108,18,Male,Visual,79,Science,Q3990,Easy,Essay,False,226.07
+S0109,12,Male,Kinesthetic,83,Math,Q932,Easy,Essay,True,179.57
+S0110,13,Female,Reading/Writing,62,Math,Q1860,Hard,Essay,True,249.06
+S0111,15,Female,Kinesthetic,66,Math,Q1039,Medium,Short Answer,True,34.95
+S0112,13,Female,Visual,95,Geography,Q1169,Hard,Multiple Choice,False,20.72
+S0113,17,Female,Visual,55,Geography,Q4260,Medium,True/False,False,192.0
+S0114,12,Male,Kinesthetic,69,English,Q494,Easy,True/False,True,50.41
+S0115,15,Male,Auditory,50,Geography,Q3659,Easy,Essay,True,155.03
+S0116,12,Female,Auditory,76,Math,Q1016,Medium,Short Answer,False,163.91
+S0117,13,Male,Visual,78,Geography,Q3528,Hard,Short Answer,True,28.23
+S0118,18,Male,Auditory,59,History,Q1072,Hard,True/False,True,20.78
+S0119,14,Male,Auditory,77,English,Q3041,Medium,True/False,False,241.41
+S0120,12,Female,Reading/Writing,75,Geography,Q4709,Hard,Essay,True,28.96
+S0121,16,Male,Reading/Writing,63,Math,Q2044,Hard,Essay,True,58.5
+S0122,15,Female,Visual,72,Science,Q4417,Medium,Short Answer,False,40.17
+S0123,15,Male,Visual,87,English,Q2121,Easy,True/False,False,253.55
+S0124,14,Male,Reading/Writing,70,History,Q3706,Hard,True/False,True,198.21
+S0125,12,Male,Kinesthetic,75,Math,Q2533,Easy,Short Answer,True,236.06
+S0126,13,Female,Auditory,93,Geography,Q1650,Medium,Short Answer,True,107.96
+S0127,13,Female,Visual,88,History,Q4477,Easy,Multiple Choice,False,208.67
+S0128,18,Female,Reading/Writing,76,Geography,Q274,Hard,True/False,False,164.2
+S0129,17,Female,Visual,77,History,Q1791,Easy,Short Answer,False,93.93
+S0130,15,Male,Auditory,52,Science,Q1255,Easy,Multiple Choice,True,57.98
+S0131,14,Female,Reading/Writing,82,History,Q642,Easy,Short Answer,True,210.18
+S0132,12,Male,Reading/Writing,59,Math,Q1883,Medium,Essay,True,72.23
+S0133,12,Female,Visual,85,Math,Q1850,Medium,Short Answer,False,177.73
+S0134,16,Female,Auditory,66,Math,Q104,Hard,True/False,False,249.44
+S0135,17,Female,Kinesthetic,77,History,Q1228,Easy,Multiple Choice,False,191.4
+S0136,18,Male,Auditory,100,Math,Q3976,Hard,Short Answer,False,70.19
+S0137,14,Female,Reading/Writing,88,Math,Q3519,Medium,Short Answer,False,67.36
+S0138,14,Female,Reading/Writing,76,Science,Q4113,Medium,Short Answer,True,286.89
+S0139,12,Male,Auditory,83,Geography,Q791,Medium,Multiple Choice,True,56.22
+S0140,12,Female,Visual,64,English,Q770,Medium,Multiple Choice,True,158.17
+S0141,13,Male,Kinesthetic,60,Geography,Q3314,Hard,True/False,False,243.91
+S0142,18,Female,Kinesthetic,70,Geography,Q657,Hard,Multiple Choice,True,254.94
+S0143,16,Male,Auditory,93,History,Q1203,Easy,Essay,True,162.74
+S0144,18,Female,Visual,90,History,Q3516,Medium,Multiple Choice,True,116.06
+S0145,17,Female,Visual,78,English,Q811,Easy,Short Answer,True,247.56
+S0146,18,Male,Kinesthetic,63,Science,Q2686,Easy,True/False,True,160.48
+S0147,14,Male,Reading/Writing,94,Science,Q4069,Easy,True/False,True,292.03
+S0148,18,Female,Visual,88,Math,Q3964,Hard,Multiple Choice,False,165.42
+S0149,17,Female,Kinesthetic,81,English,Q947,Medium,Multiple Choice,True,223.14
+S0150,17,Male,Kinesthetic,89,Science,Q4994,Medium,True/False,True,180.24
+S0151,13,Male,Kinesthetic,55,History,Q1730,Medium,Essay,True,259.16
+S0152,16,Female,Visual,100,Math,Q282,Medium,Multiple Choice,True,52.36
+S0153,17,Male,Kinesthetic,78,Math,Q1675,Easy,Short Answer,True,204.79
+S0154,18,Female,Visual,56,Math,Q553,Hard,True/False,True,58.87
+S0155,15,Male,Reading/Writing,64,English,Q1784,Hard,True/False,True,280.06
+S0156,13,Female,Reading/Writing,91,Math,Q2606,Hard,True/False,True,22.81
+S0157,16,Female,Kinesthetic,58,Math,Q2037,Medium,Essay,False,256.48
+S0158,14,Male,Reading/Writing,99,English,Q222,Hard,Short Answer,True,11.01
+S0159,12,Female,Auditory,50,Science,Q4301,Easy,Short Answer,True,227.75
+S0160,18,Female,Kinesthetic,86,English,Q1833,Medium,Multiple Choice,True,80.63
+S0161,15,Female,Visual,77,Geography,Q4067,Hard,Short Answer,False,48.55
+S0162,18,Male,Reading/Writing,86,English,Q1809,Hard,Short Answer,False,240.11
+S0163,14,Male,Kinesthetic,60,Science,Q4734,Medium,Short Answer,False,266.5
+S0164,18,Female,Reading/Writing,98,Geography,Q116,Hard,True/False,False,125.13
+S0165,13,Female,Auditory,81,English,Q2314,Hard,Essay,False,172.94
+S0166,18,Female,Kinesthetic,59,History,Q1463,Easy,Short Answer,False,241.95
+S0167,13,Male,Auditory,54,Geography,Q3075,Easy,Short Answer,False,212.16
+S0168,13,Male,Kinesthetic,87,History,Q2229,Easy,Multiple Choice,True,283.86
+S0169,18,Male,Auditory,93,Geography,Q3560,Easy,True/False,False,106.73
+S0170,13,Male,Reading/Writing,83,Geography,Q924,Easy,True/False,False,82.11
+S0171,17,Male,Reading/Writing,88,History,Q4976,Easy,Multiple Choice,False,151.81
+S0172,16,Male,Visual,99,Math,Q1000,Hard,True/False,False,47.4
+S0173,13,Male,Kinesthetic,60,English,Q2937,Medium,True/False,False,238.8
+S0174,14,Male,Auditory,83,English,Q3670,Hard,Short Answer,True,282.42
+S0175,18,Female,Visual,85,English,Q2660,Medium,Short Answer,False,111.52
+S0176,14,Female,Reading/Writing,67,Math,Q2270,Hard,Essay,True,18.44
+S0177,14,Female,Kinesthetic,81,English,Q3853,Easy,Essay,True,256.44
+S0178,17,Female,Auditory,94,History,Q3659,Medium,Short Answer,False,119.62
+S0179,18,Female,Kinesthetic,51,English,Q3024,Medium,Short Answer,False,31.23
+S0180,14,Male,Auditory,83,Science,Q618,Easy,Essay,True,111.91
+S0181,17,Male,Auditory,69,History,Q2522,Hard,True/False,False,276.37
+S0182,17,Male,Auditory,64,Science,Q1920,Medium,Multiple Choice,True,52.68
+S0183,12,Male,Auditory,70,History,Q284,Hard,Multiple Choice,True,64.82
+S0184,14,Female,Visual,64,Science,Q3470,Hard,Essay,False,71.15
+S0185,17,Female,Kinesthetic,90,English,Q3784,Medium,Short Answer,True,37.77
+S0186,16,Male,Auditory,54,History,Q4765,Easy,True/False,True,285.72
+S0187,17,Female,Visual,80,History,Q2400,Medium,Short Answer,True,198.64
+S0188,14,Female,Kinesthetic,83,Geography,Q1147,Hard,Essay,False,263.46
+S0189,15,Male,Visual,62,English,Q1128,Medium,Essay,True,252.51
+S0190,13,Male,Kinesthetic,89,Science,Q2728,Hard,Short Answer,False,91.52
+S0191,12,Female,Kinesthetic,79,Math,Q843,Hard,Essay,True,110.22
+S0192,16,Male,Reading/Writing,73,History,Q1714,Hard,Essay,True,240.31
+S0193,13,Male,Kinesthetic,84,Math,Q4816,Easy,Multiple Choice,False,19.59
+S0194,15,Female,Kinesthetic,60,Geography,Q4192,Easy,Essay,False,79.61
+S0195,16,Male,Kinesthetic,83,Geography,Q4968,Easy,True/False,True,239.62
+S0196,13,Male,Visual,85,Science,Q3985,Medium,True/False,True,35.91
+S0197,17,Female,Reading/Writing,52,English,Q1720,Hard,Essay,True,177.31
+S0198,13,Male,Visual,90,Science,Q2385,Hard,True/False,False,68.69
+S0199,13,Male,Auditory,56,Math,Q1087,Hard,Multiple Choice,True,64.01
+S0200,12,Female,Reading/Writing,99,History,Q2012,Medium,Essay,False,213.18
+S0201,16,Female,Reading/Writing,99,English,Q3209,Hard,Multiple Choice,False,102.26
+S0202,15,Female,Reading/Writing,50,Math,Q3829,Easy,Multiple Choice,False,262.36
+S0203,17,Male,Reading/Writing,66,Science,Q809,Medium,Essay,True,36.97
+S0204,14,Female,Kinesthetic,74,Geography,Q2638,Easy,Short Answer,True,96.32
+S0205,13,Female,Visual,72,Science,Q4481,Hard,Essay,True,288.12
+S0206,12,Female,Visual,55,Geography,Q1181,Medium,Multiple Choice,False,134.63
+S0207,14,Female,Kinesthetic,81,English,Q94,Medium,Short Answer,False,24.7
+S0208,16,Male,Kinesthetic,61,Geography,Q2410,Medium,True/False,False,244.63
+S0209,13,Female,Visual,82,Science,Q545,Hard,Multiple Choice,False,64.51
+S0210,12,Female,Visual,63,Geography,Q3390,Easy,Short Answer,False,234.45
+S0211,18,Male,Kinesthetic,66,Geography,Q719,Easy,Short Answer,False,80.08
+S0212,15,Male,Reading/Writing,97,Math,Q2474,Easy,Short Answer,True,238.84
+S0213,18,Male,Kinesthetic,70,English,Q636,Medium,True/False,False,251.38
+S0214,12,Male,Auditory,97,Geography,Q2312,Easy,True/False,True,121.55
+S0215,13,Female,Auditory,84,Math,Q639,Medium,True/False,False,285.04
+S0216,17,Male,Auditory,97,English,Q4369,Hard,Essay,True,143.13
+S0217,17,Male,Visual,84,History,Q3950,Medium,True/False,False,112.53
+S0218,13,Male,Auditory,94,Math,Q2502,Easy,Multiple Choice,True,200.2
+S0219,18,Male,Reading/Writing,86,Geography,Q4386,Easy,True/False,True,55.24
+S0220,12,Female,Reading/Writing,80,Geography,Q4214,Easy,Short Answer,False,134.45
+S0221,14,Female,Reading/Writing,62,English,Q4592,Easy,True/False,True,283.38
+S0222,16,Female,Kinesthetic,70,Math,Q3654,Hard,Short Answer,False,277.75
+S0223,13,Female,Visual,96,Math,Q467,Hard,Essay,False,53.33
+S0224,12,Female,Visual,99,Math,Q2594,Easy,True/False,True,55.78
+S0225,18,Female,Kinesthetic,51,Geography,Q943,Easy,Essay,True,275.87
+S0226,12,Male,Auditory,77,English,Q4106,Medium,True/False,False,125.27
+S0227,15,Male,Reading/Writing,100,History,Q4146,Hard,Multiple Choice,True,56.52
+S0228,18,Male,Auditory,63,Math,Q1102,Medium,Short Answer,False,260.62
+S0229,15,Female,Reading/Writing,76,History,Q3363,Hard,Essay,False,213.7
+S0230,14,Female,Reading/Writing,71,History,Q3623,Easy,Multiple Choice,True,15.41
+S0231,18,Male,Reading/Writing,62,Science,Q4641,Hard,Essay,True,263.12
+S0232,18,Male,Reading/Writing,77,Math,Q3519,Medium,Multiple Choice,False,208.97
+S0233,12,Female,Reading/Writing,52,Math,Q4071,Hard,Short Answer,True,45.75
+S0234,14,Female,Kinesthetic,63,Math,Q4453,Easy,Short Answer,False,165.75
+S0235,14,Female,Auditory,86,Geography,Q3385,Medium,Short Answer,False,179.81
+S0236,12,Male,Reading/Writing,89,History,Q3029,Hard,Multiple Choice,False,94.27
+S0237,16,Female,Reading/Writing,57,Geography,Q443,Hard,Essay,False,199.9
+S0238,12,Female,Reading/Writing,51,Math,Q982,Hard,Essay,False,222.95
+S0239,17,Female,Kinesthetic,55,Geography,Q3679,Easy,Short Answer,False,258.12
+S0240,12,Female,Reading/Writing,68,Science,Q3979,Easy,Short Answer,True,281.69
+S0241,14,Female,Reading/Writing,65,History,Q4837,Medium,Multiple Choice,False,120.07
+S0242,13,Male,Reading/Writing,68,Geography,Q4281,Hard,Multiple Choice,False,16.12
+S0243,17,Male,Auditory,57,Geography,Q3596,Easy,Multiple Choice,True,53.18
+S0244,12,Male,Visual,96,Math,Q1518,Medium,Multiple Choice,False,222.71
+S0245,15,Male,Kinesthetic,52,English,Q4099,Easy,Short Answer,False,25.19
+S0246,18,Female,Kinesthetic,79,English,Q4414,Hard,Multiple Choice,False,76.74
+S0247,12,Female,Auditory,96,Math,Q4728,Easy,True/False,True,223.65
+S0248,13,Female,Reading/Writing,52,English,Q3143,Easy,True/False,False,175.77
+S0249,17,Male,Auditory,61,Math,Q3694,Medium,Essay,True,207.71
+S0250,16,Female,Visual,96,History,Q3881,Hard,Short Answer,False,187.79
+S0251,14,Female,Reading/Writing,77,English,Q3924,Easy,Multiple Choice,False,201.46
+S0252,12,Male,Auditory,61,Geography,Q3261,Medium,True/False,False,195.24
+S0253,17,Male,Auditory,73,Science,Q1676,Medium,Short Answer,False,124.62
+S0254,18,Male,Visual,92,History,Q4201,Easy,Essay,True,194.71
+S0255,13,Male,Kinesthetic,65,Science,Q4049,Hard,Essay,False,285.33
+S0256,12,Male,Reading/Writing,59,Math,Q152,Easy,Short Answer,False,222.33
+S0257,14,Male,Visual,64,History,Q2981,Medium,Essay,False,269.84
+S0258,18,Male,Auditory,78,Math,Q1236,Medium,Multiple Choice,False,122.33
+S0259,13,Male,Reading/Writing,81,Math,Q2725,Medium,Essay,False,190.73
+S0260,16,Female,Reading/Writing,100,History,Q3284,Hard,True/False,True,274.1
+S0261,17,Female,Auditory,76,Science,Q804,Hard,Short Answer,True,97.69
+S0262,13,Female,Kinesthetic,80,Geography,Q758,Easy,Multiple Choice,True,136.7
+S0263,16,Male,Kinesthetic,90,History,Q1477,Medium,Short Answer,True,37.12
+S0264,18,Male,Kinesthetic,77,History,Q4931,Easy,True/False,False,236.09
+S0265,18,Male,Visual,61,Math,Q2727,Medium,True/False,False,255.85
+S0266,18,Female,Reading/Writing,64,Geography,Q2290,Hard,Multiple Choice,False,182.75
+S0267,15,Female,Reading/Writing,59,Math,Q1162,Hard,Essay,True,150.94
+S0268,14,Female,Auditory,55,History,Q3902,Medium,Multiple Choice,False,268.69
+S0269,12,Female,Kinesthetic,81,Math,Q3757,Easy,Essay,True,116.6
+S0270,14,Female,Reading/Writing,56,Science,Q3103,Easy,Short Answer,False,246.66
+S0271,18,Male,Kinesthetic,97,English,Q1421,Medium,Short Answer,True,263.44
+S0272,14,Male,Auditory,74,Math,Q4015,Easy,Essay,False,166.45
+S0273,12,Male,Visual,68,History,Q4735,Medium,Essay,True,86.04
+S0274,13,Female,Kinesthetic,70,Science,Q1229,Medium,Essay,False,264.86
+S0275,16,Female,Auditory,51,Science,Q2610,Medium,Essay,False,67.14
+S0276,15,Male,Reading/Writing,96,History,Q873,Medium,Short Answer,True,51.58
+S0277,15,Male,Auditory,89,Science,Q1718,Easy,True/False,False,208.01
+S0278,14,Female,Auditory,69,English,Q1804,Medium,Essay,False,22.33
+S0279,13,Female,Reading/Writing,91,History,Q1044,Easy,Multiple Choice,True,54.82
+S0280,13,Male,Reading/Writing,75,English,Q4529,Hard,Essay,True,292.62
+S0281,14,Male,Reading/Writing,100,Geography,Q3368,Medium,Essay,False,138.6
+S0282,14,Female,Kinesthetic,57,English,Q4332,Hard,Multiple Choice,False,194.33
+S0283,16,Male,Auditory,53,English,Q3568,Hard,True/False,False,96.85
+S0284,17,Male,Visual,51,Geography,Q4965,Hard,True/False,True,116.16
+S0285,15,Male,Visual,57,Math,Q4129,Medium,True/False,False,198.03
+S0286,15,Female,Auditory,84,Math,Q2730,Medium,True/False,False,111.33
+S0287,17,Male,Kinesthetic,63,Science,Q2937,Hard,Multiple Choice,False,101.34
+S0288,15,Female,Kinesthetic,74,Geography,Q1195,Easy,Essay,False,140.13
+S0289,17,Male,Auditory,51,Geography,Q441,Medium,True/False,True,124.02
+S0290,18,Female,Kinesthetic,88,History,Q4630,Easy,Multiple Choice,False,14.12
+S0291,18,Male,Reading/Writing,66,Math,Q3899,Easy,Essay,False,97.26
+S0292,15,Male,Reading/Writing,81,Geography,Q4363,Medium,Multiple Choice,False,39.63
+S0293,17,Male,Auditory,57,History,Q1475,Medium,True/False,True,285.16
+S0294,14,Female,Visual,60,Science,Q3840,Hard,Multiple Choice,True,21.7
+S0295,17,Female,Kinesthetic,100,English,Q4402,Medium,True/False,True,183.91
+S0296,14,Male,Visual,98,Geography,Q4174,Medium,Short Answer,False,126.4
+S0297,13,Female,Auditory,88,History,Q1924,Easy,Short Answer,False,285.72
+S0298,12,Male,Visual,67,English,Q3370,Hard,True/False,True,40.56
+S0299,17,Male,Auditory,64,English,Q2285,Easy,Short Answer,False,277.47
+S0300,16,Male,Visual,67,History,Q3215,Hard,Multiple Choice,True,295.1
+S0301,13,Female,Reading/Writing,64,Math,Q3947,Medium,Multiple Choice,True,289.01
+S0302,12,Female,Reading/Writing,56,Math,Q3696,Easy,Multiple Choice,False,98.02
+S0303,12,Female,Visual,95,Geography,Q484,Hard,Essay,False,40.82
+S0304,17,Male,Auditory,56,Science,Q2079,Medium,True/False,False,165.02
+S0305,18,Male,Visual,56,History,Q4369,Hard,Short Answer,True,182.01
+S0306,14,Male,Reading/Writing,68,Science,Q1338,Medium,Essay,False,297.93
+S0307,15,Female,Auditory,87,History,Q4732,Medium,Short Answer,True,273.94
+S0308,18,Female,Auditory,72,Science,Q2885,Medium,Short Answer,True,290.94
+S0309,17,Female,Reading/Writing,95,History,Q40,Hard,Short Answer,True,141.42
+S0310,15,Female,Visual,76,History,Q2049,Hard,Essay,True,175.38
+S0311,13,Female,Kinesthetic,90,Science,Q4811,Medium,Multiple Choice,False,223.3
+S0312,13,Male,Visual,66,Geography,Q4728,Easy,Short Answer,True,88.73
+S0313,14,Female,Kinesthetic,84,Science,Q435,Medium,Short Answer,True,223.87
+S0314,18,Female,Auditory,60,Science,Q404,Hard,Essay,True,15.42
+S0315,15,Male,Auditory,65,English,Q2435,Easy,Short Answer,False,298.0
+S0316,12,Male,Auditory,50,Science,Q3456,Hard,Short Answer,True,38.55
+S0317,12,Male,Visual,94,Geography,Q2446,Hard,Short Answer,False,91.2
+S0318,18,Male,Auditory,79,Geography,Q2312,Hard,Short Answer,True,152.55
+S0319,17,Female,Reading/Writing,91,Math,Q3682,Medium,True/False,False,79.52
+S0320,14,Male,Reading/Writing,98,English,Q4052,Hard,True/False,True,219.17
+S0321,17,Male,Visual,84,Geography,Q1705,Hard,Essay,False,221.4
+S0322,16,Female,Visual,59,English,Q472,Easy,Multiple Choice,True,163.31
+S0323,15,Male,Auditory,73,Geography,Q1562,Easy,Short Answer,True,200.37
+S0324,17,Male,Visual,64,History,Q1386,Easy,Short Answer,True,40.95
+S0325,15,Male,Kinesthetic,78,Geography,Q3274,Easy,Essay,True,75.33
+S0326,12,Male,Visual,57,Geography,Q3878,Easy,Short Answer,True,182.28
+S0327,12,Male,Auditory,93,Geography,Q4798,Medium,Essay,True,112.38
+S0328,12,Male,Visual,90,History,Q815,Medium,Short Answer,True,67.05
+S0329,12,Male,Auditory,52,Science,Q4628,Easy,Multiple Choice,False,84.76
+S0330,13,Female,Auditory,84,Math,Q3059,Medium,True/False,True,54.11
+S0331,14,Male,Visual,68,Geography,Q4333,Easy,Short Answer,True,31.74
+S0332,15,Female,Visual,65,Geography,Q3956,Easy,Essay,False,268.28
+S0333,16,Male,Auditory,70,History,Q3752,Easy,Essay,True,104.25
+S0334,18,Male,Auditory,83,History,Q2012,Medium,True/False,True,283.14
+S0335,15,Female,Visual,80,Math,Q867,Easy,Essay,True,52.48
+S0336,13,Female,Kinesthetic,83,Geography,Q2212,Medium,True/False,False,137.67
+S0337,12,Female,Kinesthetic,78,History,Q383,Hard,Short Answer,True,138.21
+S0338,13,Female,Reading/Writing,52,English,Q675,Hard,Multiple Choice,False,170.11
+S0339,18,Female,Kinesthetic,66,English,Q4474,Easy,Multiple Choice,False,218.87
+S0340,14,Female,Kinesthetic,89,English,Q3262,Medium,Multiple Choice,False,55.48
+S0341,18,Male,Visual,59,History,Q4306,Hard,Multiple Choice,False,274.75
+S0342,15,Female,Visual,80,Geography,Q1620,Hard,Multiple Choice,True,132.18
+S0343,14,Male,Reading/Writing,57,English,Q799,Medium,Essay,False,228.01
+S0344,18,Female,Kinesthetic,91,Geography,Q4515,Hard,Multiple Choice,True,251.93
+S0345,17,Female,Auditory,92,History,Q1843,Easy,Essay,True,85.83
+S0346,14,Male,Auditory,66,Geography,Q4788,Medium,Essay,False,222.32
+S0347,13,Female,Reading/Writing,77,English,Q4250,Easy,Short Answer,True,11.41
+S0348,12,Female,Kinesthetic,74,Science,Q1796,Hard,Essay,False,172.29
+S0349,15,Female,Reading/Writing,98,History,Q1952,Hard,Essay,False,161.89
+S0350,18,Male,Reading/Writing,69,History,Q1140,Easy,Short Answer,False,35.17
+S0351,18,Male,Auditory,68,History,Q3771,Hard,Multiple Choice,True,202.46
+S0352,17,Female,Reading/Writing,69,English,Q1203,Easy,True/False,True,286.06
+S0353,16,Male,Reading/Writing,85,Math,Q455,Hard,Short Answer,True,85.6
+S0354,16,Female,Reading/Writing,73,Geography,Q4796,Medium,True/False,True,111.24
+S0355,17,Male,Visual,89,History,Q1468,Easy,Short Answer,False,68.06
+S0356,16,Female,Reading/Writing,59,Geography,Q3802,Easy,Short Answer,False,110.71
+S0357,15,Male,Reading/Writing,100,History,Q4933,Medium,Short Answer,False,140.08
+S0358,17,Female,Visual,86,English,Q306,Medium,Short Answer,True,227.36
+S0359,18,Female,Visual,61,History,Q3186,Easy,Multiple Choice,False,197.44
+S0360,18,Female,Reading/Writing,100,Geography,Q2975,Medium,Multiple Choice,False,280.62
+S0361,12,Male,Reading/Writing,100,English,Q2485,Medium,True/False,False,243.25
+S0362,13,Male,Reading/Writing,54,History,Q3368,Easy,Essay,False,130.76
+S0363,17,Male,Visual,92,History,Q190,Easy,Multiple Choice,False,145.02
+S0364,15,Female,Kinesthetic,89,Science,Q1134,Medium,Short Answer,False,72.14
+S0365,14,Male,Reading/Writing,59,Math,Q811,Hard,Essay,True,271.34
+S0366,13,Female,Visual,76,History,Q1616,Easy,Multiple Choice,False,160.42
+S0367,13,Male,Auditory,71,History,Q4981,Medium,Essay,False,140.8
+S0368,18,Male,Kinesthetic,64,Science,Q4892,Medium,Essay,False,150.39
+S0369,18,Male,Auditory,69,Math,Q678,Medium,True/False,False,244.0
+S0370,16,Male,Auditory,76,History,Q1081,Medium,Essay,True,206.23
+S0371,12,Male,Kinesthetic,70,Math,Q1448,Medium,True/False,False,54.49
+S0372,13,Female,Kinesthetic,96,English,Q965,Medium,Essay,False,267.56
+S0373,15,Female,Visual,89,English,Q4149,Hard,Essay,False,213.49
+S0374,13,Male,Auditory,61,English,Q3543,Hard,True/False,False,216.52
+S0375,18,Male,Reading/Writing,65,Science,Q410,Medium,True/False,False,200.55
+S0376,15,Female,Kinesthetic,100,English,Q4373,Hard,Essay,True,243.51
+S0377,16,Female,Auditory,98,Science,Q4167,Easy,Essay,False,281.48
+S0378,12,Female,Reading/Writing,92,History,Q1568,Easy,Essay,False,53.93
+S0379,14,Female,Auditory,88,History,Q1238,Medium,Multiple Choice,True,256.71
+S0380,18,Male,Reading/Writing,98,Math,Q2597,Easy,True/False,False,57.53
+S0381,14,Female,Reading/Writing,77,English,Q2273,Medium,True/False,True,292.65
+S0382,18,Female,Visual,79,Science,Q387,Easy,True/False,False,187.98
+S0383,17,Female,Kinesthetic,93,Science,Q3433,Easy,True/False,True,49.99
+S0384,13,Female,Auditory,64,Geography,Q4637,Hard,Multiple Choice,False,273.38
+S0385,14,Female,Kinesthetic,67,Science,Q172,Medium,Essay,True,55.87
+S0386,15,Female,Visual,99,Science,Q3534,Medium,Short Answer,False,265.08
+S0387,12,Male,Auditory,57,Science,Q4964,Hard,Short Answer,False,199.79
+S0388,17,Male,Visual,63,English,Q3907,Medium,Short Answer,False,280.0
+S0389,17,Female,Auditory,63,History,Q2122,Hard,Short Answer,True,160.43
+S0390,12,Male,Visual,88,Math,Q2957,Medium,Essay,True,28.85
+S0391,12,Male,Auditory,76,Science,Q2377,Easy,True/False,False,188.14
+S0392,13,Male,Auditory,71,History,Q3895,Hard,Essay,False,225.14
+S0393,16,Female,Reading/Writing,98,Geography,Q1752,Easy,Short Answer,False,52.09
+S0394,18,Female,Kinesthetic,98,Geography,Q3677,Medium,Essay,False,137.29
+S0395,15,Female,Reading/Writing,93,Science,Q1129,Medium,Essay,True,198.34
+S0396,12,Male,Reading/Writing,73,English,Q2859,Medium,True/False,False,237.1
+S0397,15,Female,Visual,55,Math,Q2444,Medium,Essay,False,223.9
+S0398,13,Female,Visual,88,Geography,Q4415,Medium,Multiple Choice,True,76.67
+S0399,14,Female,Kinesthetic,53,Geography,Q4225,Medium,Multiple Choice,True,110.94
+S0400,15,Male,Visual,76,Science,Q4222,Easy,Multiple Choice,False,141.53
+S0401,17,Male,Auditory,82,Math,Q2556,Easy,Short Answer,False,138.09
+S0402,16,Female,Kinesthetic,60,Math,Q3698,Hard,Essay,False,163.81
+S0403,15,Female,Auditory,88,Science,Q4762,Easy,True/False,False,290.43
+S0404,18,Male,Kinesthetic,93,Math,Q112,Hard,True/False,False,230.42
+S0405,18,Female,Auditory,80,Math,Q1890,Medium,Multiple Choice,True,153.58
+S0406,15,Female,Visual,87,Math,Q1393,Medium,True/False,True,188.64
+S0407,16,Male,Reading/Writing,56,Science,Q139,Medium,Short Answer,False,22.33
+S0408,17,Male,Kinesthetic,55,History,Q96,Easy,Essay,True,75.45
+S0409,13,Male,Visual,90,Geography,Q4305,Easy,Short Answer,True,226.37
+S0410,13,Male,Auditory,100,History,Q632,Easy,Short Answer,False,87.56
+S0411,15,Female,Auditory,75,History,Q2407,Hard,Essay,True,244.78
+S0412,15,Female,Auditory,99,History,Q371,Medium,Short Answer,True,75.42
+S0413,16,Male,Visual,65,Geography,Q3261,Hard,Multiple Choice,False,235.27
+S0414,18,Female,Reading/Writing,85,Geography,Q1865,Easy,Essay,False,117.51
+S0415,14,Female,Auditory,86,Science,Q54,Hard,Essay,True,126.95
+S0416,12,Female,Reading/Writing,72,Math,Q630,Easy,Short Answer,True,122.21
+S0417,13,Male,Kinesthetic,87,Science,Q4744,Hard,Short Answer,False,72.02
+S0418,13,Male,Visual,90,English,Q3858,Medium,Essay,True,229.79
+S0419,13,Male,Reading/Writing,99,Science,Q1878,Easy,True/False,False,162.8
+S0420,14,Female,Kinesthetic,93,Science,Q4116,Easy,Essay,True,296.53
+S0421,17,Female,Auditory,91,History,Q1939,Easy,Essay,True,68.33
+S0422,13,Female,Reading/Writing,62,Math,Q1034,Medium,Short Answer,True,49.97
+S0423,12,Female,Auditory,73,English,Q2237,Easy,True/False,True,196.36
+S0424,13,Female,Reading/Writing,60,Math,Q4939,Medium,Short Answer,False,18.99
+S0425,15,Female,Reading/Writing,93,English,Q2731,Hard,True/False,False,252.55
+S0426,18,Male,Auditory,73,Geography,Q1107,Medium,Short Answer,True,261.48
+S0427,17,Male,Kinesthetic,80,Science,Q2759,Easy,True/False,False,85.06
+S0428,14,Male,Visual,67,English,Q2669,Medium,True/False,False,56.29
+S0429,15,Male,Visual,99,History,Q4085,Easy,Essay,False,171.21
+S0430,17,Female,Visual,66,Geography,Q3169,Hard,True/False,False,157.41
+S0431,16,Female,Kinesthetic,90,Math,Q496,Hard,Essay,False,258.15
+S0432,18,Female,Auditory,51,Science,Q1998,Easy,Essay,True,89.68
+S0433,12,Male,Reading/Writing,89,History,Q3475,Medium,Short Answer,False,259.22
+S0434,18,Female,Kinesthetic,54,English,Q4666,Easy,Multiple Choice,True,225.39
+S0435,15,Female,Auditory,61,English,Q583,Hard,Essay,False,266.4
+S0436,12,Female,Reading/Writing,100,English,Q106,Medium,Essay,False,15.28
+S0437,15,Male,Kinesthetic,69,Science,Q3176,Hard,Short Answer,False,149.87
+S0438,13,Male,Reading/Writing,57,Math,Q691,Easy,Essay,True,82.42
+S0439,16,Male,Visual,94,Geography,Q1266,Hard,Short Answer,False,254.55
+S0440,17,Female,Visual,94,Geography,Q3066,Easy,True/False,True,266.63
+S0441,13,Female,Visual,72,Math,Q1884,Easy,Short Answer,True,178.27
+S0442,13,Female,Reading/Writing,51,Geography,Q3899,Easy,Essay,False,184.11
+S0443,14,Female,Kinesthetic,50,English,Q2475,Easy,Short Answer,True,104.75
+S0444,17,Female,Reading/Writing,92,Geography,Q3804,Hard,Short Answer,False,37.32
+S0445,14,Female,Auditory,80,English,Q621,Medium,True/False,True,287.25
+S0446,18,Female,Visual,91,Math,Q4464,Hard,Short Answer,False,255.03
+S0447,13,Female,Visual,91,English,Q2424,Hard,True/False,True,79.54
+S0448,12,Male,Reading/Writing,70,Science,Q2618,Hard,Multiple Choice,False,14.23
+S0449,15,Male,Kinesthetic,79,History,Q3664,Hard,True/False,False,217.48
+S0450,16,Male,Reading/Writing,58,Science,Q1501,Easy,Multiple Choice,True,79.0
+S0451,17,Female,Kinesthetic,69,History,Q3035,Easy,Essay,False,41.45
+S0452,12,Female,Auditory,85,Science,Q4210,Easy,Multiple Choice,False,12.54
+S0453,12,Female,Reading/Writing,60,History,Q824,Easy,Short Answer,False,220.57
+S0454,16,Male,Kinesthetic,89,Geography,Q4838,Hard,Essay,True,288.84
+S0455,12,Male,Reading/Writing,84,English,Q4356,Easy,Essay,False,195.98
+S0456,13,Female,Kinesthetic,100,Science,Q3753,Hard,Essay,False,122.1
+S0457,14,Male,Auditory,97,History,Q819,Easy,Essay,True,210.19
+S0458,16,Female,Kinesthetic,100,History,Q3222,Hard,Multiple Choice,True,95.24
+S0459,18,Female,Kinesthetic,52,Math,Q4283,Medium,Short Answer,True,55.26
+S0460,13,Female,Visual,95,Math,Q2669,Medium,Multiple Choice,True,182.3
+S0461,14,Male,Visual,68,Geography,Q4017,Hard,Multiple Choice,False,101.95
+S0462,12,Male,Visual,64,History,Q2670,Hard,Multiple Choice,False,196.15
+S0463,18,Male,Visual,57,Science,Q1869,Medium,Multiple Choice,True,136.59
+S0464,18,Male,Visual,72,Science,Q3593,Hard,Essay,True,277.15
+S0465,12,Male,Kinesthetic,67,Geography,Q4002,Medium,Essay,False,151.11
+S0466,14,Female,Visual,97,Math,Q2634,Easy,True/False,True,185.82
+S0467,15,Female,Kinesthetic,91,Math,Q2153,Medium,Short Answer,True,242.84
+S0468,15,Female,Auditory,53,Math,Q4613,Medium,Short Answer,False,262.71
+S0469,16,Male,Visual,68,Geography,Q490,Hard,True/False,True,256.64
+S0470,18,Male,Visual,51,Science,Q1698,Medium,Short Answer,False,244.45
+S0471,14,Female,Kinesthetic,95,Math,Q623,Medium,Essay,True,69.69
+S0472,17,Male,Visual,57,Math,Q1229,Medium,True/False,False,243.52
+S0473,14,Male,Kinesthetic,60,Science,Q2569,Medium,Essay,True,17.35
+S0474,13,Male,Visual,63,English,Q2062,Hard,Essay,True,38.17
+S0475,13,Female,Kinesthetic,68,Science,Q421,Easy,Multiple Choice,False,136.99
+S0476,12,Female,Visual,100,Science,Q1461,Easy,Multiple Choice,False,32.11
+S0477,16,Female,Auditory,72,English,Q522,Easy,Essay,True,120.78
+S0478,15,Male,Visual,62,Science,Q1801,Hard,True/False,True,195.91
+S0479,14,Male,Kinesthetic,87,Geography,Q4375,Easy,Short Answer,True,286.14
+S0480,18,Male,Auditory,89,Math,Q1755,Hard,Multiple Choice,False,115.2
+S0481,16,Male,Reading/Writing,51,Math,Q980,Hard,Short Answer,True,281.28
+S0482,12,Male,Kinesthetic,91,Geography,Q2179,Hard,True/False,True,67.77
+S0483,18,Male,Auditory,74,History,Q3527,Easy,Multiple Choice,False,36.04
+S0484,15,Male,Kinesthetic,92,English,Q4176,Hard,Short Answer,True,269.97
+S0485,15,Male,Reading/Writing,97,English,Q3374,Easy,Essay,False,84.63
+S0486,18,Male,Visual,65,English,Q263,Medium,Essay,False,152.17
+S0487,14,Female,Visual,80,History,Q997,Medium,Multiple Choice,True,30.18
+S0488,15,Female,Auditory,61,History,Q208,Easy,True/False,False,176.5
+S0489,14,Male,Auditory,100,Math,Q3186,Hard,Short Answer,True,86.22
+S0490,12,Female,Reading/Writing,91,English,Q4641,Easy,Essay,False,126.4
+S0491,15,Female,Reading/Writing,92,Math,Q4341,Hard,Short Answer,False,95.8
+S0492,17,Male,Visual,58,Geography,Q173,Easy,Multiple Choice,False,150.72
+S0493,15,Male,Kinesthetic,87,Science,Q1157,Medium,Multiple Choice,False,152.31
+S0494,13,Female,Auditory,54,Geography,Q3543,Medium,True/False,True,10.91
+S0495,12,Male,Reading/Writing,70,Science,Q1983,Hard,Short Answer,False,198.37
+S0496,15,Male,Auditory,100,Geography,Q1539,Hard,Short Answer,False,174.91
+S0497,14,Female,Reading/Writing,73,Science,Q877,Medium,Short Answer,False,262.03
+S0498,17,Male,Kinesthetic,57,Geography,Q2375,Easy,True/False,True,44.98
+S0499,15,Male,Reading/Writing,55,Geography,Q4153,Medium,Short Answer,False,43.41
+S0500,15,Female,Reading/Writing,74,History,Q2156,Easy,Short Answer,True,172.2
+S0501,15,Male,Kinesthetic,56,Geography,Q1263,Medium,Essay,False,138.35
+S0502,15,Male,Visual,86,Math,Q3386,Medium,Short Answer,True,127.15
+S0503,18,Female,Visual,70,Science,Q217,Easy,Short Answer,True,228.38
+S0504,15,Female,Visual,91,History,Q4785,Easy,Short Answer,False,289.18
+S0505,14,Male,Kinesthetic,50,Geography,Q3179,Easy,Essay,False,95.85
+S0506,16,Female,Auditory,79,Geography,Q2225,Medium,Multiple Choice,False,165.0
+S0507,12,Male,Reading/Writing,66,Geography,Q3212,Hard,Essay,False,190.73
+S0508,17,Female,Visual,60,History,Q365,Hard,Multiple Choice,False,141.27
+S0509,16,Male,Auditory,96,Math,Q769,Hard,Short Answer,True,116.34
+S0510,15,Female,Reading/Writing,56,English,Q2969,Easy,Essay,False,265.55
+S0511,17,Female,Reading/Writing,54,History,Q28,Easy,Short Answer,True,86.6
+S0512,15,Female,Visual,66,English,Q1733,Medium,True/False,False,115.05
+S0513,13,Male,Auditory,63,Math,Q5000,Medium,Essay,False,26.68
+S0514,12,Male,Reading/Writing,96,Science,Q4698,Easy,Essay,True,120.51
+S0515,14,Female,Kinesthetic,67,Math,Q1282,Easy,Multiple Choice,True,140.75
+S0516,14,Female,Reading/Writing,56,History,Q3454,Medium,Short Answer,True,135.28
+S0517,12,Male,Reading/Writing,66,Math,Q3661,Medium,True/False,False,289.41
+S0518,18,Male,Reading/Writing,80,Geography,Q2592,Easy,True/False,True,55.93
+S0519,16,Male,Reading/Writing,77,English,Q2479,Easy,True/False,True,221.9
+S0520,15,Female,Reading/Writing,83,Math,Q889,Medium,True/False,True,13.4
+S0521,12,Male,Kinesthetic,96,Math,Q811,Hard,Essay,True,246.21
+S0522,17,Female,Kinesthetic,74,Science,Q3858,Medium,Short Answer,True,30.78
+S0523,12,Male,Reading/Writing,56,English,Q2941,Easy,Short Answer,True,29.48
+S0524,12,Male,Auditory,75,Geography,Q2767,Hard,Essay,False,297.16
+S0525,18,Female,Visual,66,Science,Q3452,Hard,Short Answer,True,297.12
+S0526,15,Male,Visual,54,Science,Q4054,Hard,Multiple Choice,True,223.56
+S0527,16,Female,Visual,57,Geography,Q3093,Easy,Multiple Choice,True,92.74
+S0528,14,Female,Visual,76,Science,Q2352,Easy,Essay,False,97.44
+S0529,12,Male,Reading/Writing,58,English,Q3309,Easy,Essay,True,54.06
+S0530,15,Female,Visual,54,Math,Q426,Easy,Short Answer,True,182.14
+S0531,16,Male,Auditory,61,History,Q1774,Easy,True/False,True,103.98
+S0532,12,Female,Auditory,83,English,Q268,Medium,Multiple Choice,False,174.33
+S0533,14,Male,Reading/Writing,59,Math,Q337,Hard,Essay,True,69.02
+S0534,17,Female,Visual,61,Geography,Q1174,Medium,Short Answer,False,254.4
+S0535,17,Male,Visual,80,Science,Q4071,Medium,True/False,False,22.26
+S0536,13,Female,Reading/Writing,72,Math,Q4036,Hard,Short Answer,True,280.92
+S0537,13,Male,Visual,65,English,Q148,Medium,Essay,True,215.71
+S0538,15,Female,Auditory,62,Science,Q612,Medium,Essay,False,293.0
+S0539,14,Male,Reading/Writing,75,English,Q140,Hard,Multiple Choice,True,142.33
+S0540,15,Male,Visual,55,Geography,Q2249,Hard,True/False,False,231.03
+S0541,17,Female,Auditory,100,English,Q3327,Easy,Multiple Choice,True,162.68
+S0542,12,Male,Auditory,85,Math,Q1687,Medium,Multiple Choice,True,148.9
+S0543,12,Female,Visual,78,Science,Q402,Hard,Essay,False,216.21
+S0544,18,Female,Kinesthetic,95,Geography,Q1381,Easy,Short Answer,True,104.13
+S0545,18,Male,Visual,70,Geography,Q3413,Easy,Short Answer,False,152.04
+S0546,17,Male,Visual,88,Geography,Q4596,Medium,Essay,False,89.13
+S0547,17,Male,Visual,62,Science,Q2085,Hard,True/False,False,235.21
+S0548,12,Male,Reading/Writing,60,History,Q3327,Easy,Essay,False,137.26
+S0549,17,Male,Visual,95,English,Q4734,Hard,Short Answer,True,298.64
+S0550,18,Female,Kinesthetic,54,English,Q4031,Easy,Essay,False,110.64
+S0551,17,Female,Visual,95,Geography,Q982,Hard,Multiple Choice,True,232.28
+S0552,16,Male,Kinesthetic,92,Math,Q577,Easy,True/False,False,49.99
+S0553,12,Male,Reading/Writing,56,Science,Q734,Medium,Multiple Choice,False,43.36
+S0554,15,Female,Visual,65,Geography,Q860,Hard,Essay,False,217.08
+S0555,16,Male,Auditory,70,Geography,Q939,Easy,True/False,False,178.99
+S0556,18,Female,Visual,74,History,Q517,Medium,Multiple Choice,True,59.81
+S0557,14,Female,Kinesthetic,57,History,Q1088,Hard,Short Answer,True,69.08
+S0558,13,Male,Auditory,81,Geography,Q1865,Hard,Essay,False,208.96
+S0559,14,Male,Visual,55,History,Q3055,Hard,Essay,False,13.27
+S0560,14,Male,Auditory,63,Geography,Q249,Medium,Short Answer,True,57.84
+S0561,17,Male,Auditory,94,English,Q4326,Medium,Multiple Choice,True,283.64
+S0562,16,Female,Kinesthetic,68,Science,Q2667,Easy,Essay,False,297.86
+S0563,18,Male,Kinesthetic,77,Geography,Q2851,Medium,Essay,False,173.39
+S0564,18,Male,Visual,71,Math,Q2247,Medium,Short Answer,False,297.56
+S0565,12,Male,Kinesthetic,98,Geography,Q1626,Hard,Multiple Choice,False,132.25
+S0566,17,Female,Reading/Writing,75,Science,Q4068,Easy,Multiple Choice,False,145.82
+S0567,14,Female,Kinesthetic,61,History,Q2458,Medium,Multiple Choice,True,260.66
+S0568,13,Male,Kinesthetic,93,Science,Q768,Hard,Short Answer,True,162.89
+S0569,16,Male,Auditory,79,History,Q403,Medium,True/False,False,164.52
+S0570,13,Male,Reading/Writing,95,History,Q508,Hard,Essay,True,147.41
+S0571,16,Male,Kinesthetic,51,Science,Q1499,Easy,Multiple Choice,True,285.46
+S0572,15,Male,Visual,63,History,Q545,Medium,Essay,True,261.4
+S0573,12,Female,Reading/Writing,61,History,Q2048,Hard,True/False,False,260.82
+S0574,15,Female,Kinesthetic,89,Math,Q3327,Hard,True/False,True,291.96
+S0575,14,Male,Visual,62,Science,Q4894,Hard,True/False,True,296.46
+S0576,16,Male,Reading/Writing,72,Math,Q2456,Medium,True/False,False,157.86
+S0577,13,Male,Reading/Writing,50,Science,Q4752,Easy,Multiple Choice,True,17.86
+S0578,14,Male,Visual,55,Science,Q1870,Easy,Short Answer,False,222.68
+S0579,12,Female,Kinesthetic,77,Geography,Q1952,Hard,Short Answer,False,219.47
+S0580,16,Male,Kinesthetic,64,Math,Q1651,Hard,True/False,False,269.14
+S0581,17,Female,Visual,98,English,Q89,Hard,Short Answer,False,47.83
+S0582,16,Female,Reading/Writing,80,History,Q1518,Medium,Short Answer,True,260.13
+S0583,12,Male,Visual,78,English,Q2248,Hard,Short Answer,False,254.99
+S0584,14,Male,Reading/Writing,69,English,Q4120,Hard,True/False,False,227.61
+S0585,14,Female,Kinesthetic,87,Math,Q4033,Hard,Essay,False,68.81
+S0586,14,Female,Visual,87,Science,Q3979,Medium,Short Answer,False,100.49
+S0587,18,Male,Kinesthetic,64,Geography,Q2265,Easy,Short Answer,True,149.27
+S0588,17,Female,Kinesthetic,89,History,Q3588,Easy,Short Answer,True,17.09
+S0589,14,Female,Auditory,86,Math,Q2106,Hard,Multiple Choice,False,106.26
+S0590,12,Female,Kinesthetic,62,Geography,Q3589,Medium,Short Answer,False,41.77
+S0591,16,Female,Kinesthetic,75,History,Q1766,Easy,Essay,False,79.08
+S0592,12,Female,Auditory,59,Math,Q4988,Hard,Essay,False,284.46
+S0593,15,Male,Visual,78,English,Q2390,Medium,Short Answer,True,64.37
+S0594,16,Male,Reading/Writing,86,Geography,Q1056,Medium,Essay,False,260.08
+S0595,13,Male,Reading/Writing,81,Math,Q4007,Medium,Multiple Choice,False,47.75
+S0596,12,Female,Kinesthetic,92,English,Q1822,Hard,Essay,False,42.28
+S0597,18,Female,Reading/Writing,92,Math,Q3195,Medium,True/False,False,194.84
+S0598,14,Male,Auditory,79,History,Q1594,Hard,Multiple Choice,False,163.97
+S0599,15,Male,Kinesthetic,94,Science,Q3515,Medium,True/False,False,247.28
+S0600,16,Female,Visual,66,Science,Q3133,Hard,True/False,False,55.51
+S0601,12,Female,Reading/Writing,76,Science,Q2179,Medium,Short Answer,False,267.06
+S0602,15,Male,Visual,56,Science,Q3297,Medium,True/False,False,27.5
+S0603,15,Female,Auditory,76,Science,Q3991,Hard,Multiple Choice,True,81.28
+S0604,13,Male,Auditory,70,Math,Q2230,Medium,Short Answer,True,110.04
+S0605,17,Female,Reading/Writing,99,Math,Q255,Medium,Essay,True,160.95
+S0606,14,Male,Auditory,90,Science,Q1980,Medium,True/False,True,293.28
+S0607,17,Female,Kinesthetic,83,Geography,Q4505,Easy,True/False,True,41.66
+S0608,15,Female,Auditory,53,English,Q2414,Easy,Short Answer,False,261.4
+S0609,14,Female,Kinesthetic,54,English,Q3053,Hard,Essay,True,271.8
+S0610,16,Male,Reading/Writing,54,Math,Q1055,Medium,Essay,False,219.92
+S0611,15,Male,Reading/Writing,60,Geography,Q1460,Medium,Essay,True,176.96
+S0612,12,Female,Visual,100,History,Q3124,Medium,Short Answer,True,40.29
+S0613,12,Female,Auditory,94,History,Q4266,Hard,Essay,False,118.34
+S0614,14,Male,Kinesthetic,92,History,Q169,Easy,True/False,False,204.28
+S0615,12,Male,Reading/Writing,65,Math,Q1934,Medium,Essay,True,240.51
+S0616,12,Female,Reading/Writing,65,English,Q3034,Easy,Essay,True,167.65
+S0617,12,Male,Reading/Writing,62,History,Q3871,Hard,True/False,False,91.7
+S0618,18,Male,Kinesthetic,88,Math,Q1448,Hard,Short Answer,False,10.59
+S0619,12,Female,Reading/Writing,78,English,Q1859,Medium,Short Answer,False,45.94
+S0620,14,Female,Reading/Writing,92,English,Q530,Hard,Short Answer,True,225.35
+S0621,17,Male,Visual,93,Science,Q2978,Easy,True/False,False,284.0
+S0622,16,Female,Reading/Writing,55,Math,Q3207,Hard,True/False,False,255.72
+S0623,12,Male,Auditory,80,English,Q399,Medium,True/False,False,70.98
+S0624,14,Male,Reading/Writing,75,Math,Q1075,Hard,Essay,False,271.34
+S0625,15,Male,Auditory,67,English,Q2172,Easy,Multiple Choice,False,109.77
+S0626,13,Male,Reading/Writing,89,Math,Q4994,Medium,True/False,False,106.29
+S0627,12,Female,Visual,96,Science,Q2599,Easy,Essay,True,251.45
+S0628,15,Male,Kinesthetic,80,Math,Q3323,Easy,Multiple Choice,False,131.91
+S0629,14,Female,Auditory,63,Math,Q4716,Hard,Essay,True,196.0
+S0630,18,Male,Auditory,75,History,Q1716,Medium,Short Answer,True,21.82
+S0631,17,Male,Auditory,75,Science,Q1913,Easy,True/False,True,274.52
+S0632,16,Male,Auditory,90,English,Q1437,Medium,Essay,False,216.24
+S0633,18,Male,Auditory,50,Math,Q1488,Medium,Essay,True,154.85
+S0634,17,Female,Kinesthetic,89,Science,Q3635,Easy,Essay,False,234.03
+S0635,14,Male,Kinesthetic,74,History,Q3541,Medium,Multiple Choice,True,51.76
+S0636,18,Female,Kinesthetic,52,History,Q4152,Medium,Essay,False,166.5
+S0637,15,Male,Visual,97,Science,Q3211,Hard,Short Answer,False,235.66
+S0638,18,Female,Auditory,82,Geography,Q3750,Hard,True/False,True,282.5
+S0639,14,Male,Kinesthetic,82,English,Q870,Easy,Short Answer,False,232.51
+S0640,16,Female,Visual,92,English,Q4595,Easy,Multiple Choice,True,67.28
+S0641,12,Female,Auditory,99,English,Q4111,Easy,Short Answer,False,77.39
+S0642,16,Male,Reading/Writing,53,Math,Q3366,Easy,Short Answer,True,144.38
+S0643,12,Male,Reading/Writing,50,Math,Q4841,Medium,Essay,False,61.95
+S0644,17,Female,Auditory,60,Geography,Q1032,Easy,Multiple Choice,False,61.73
+S0645,15,Female,Reading/Writing,98,History,Q4546,Easy,True/False,True,74.9
+S0646,15,Male,Reading/Writing,76,Math,Q607,Hard,Short Answer,False,220.22
+S0647,17,Male,Reading/Writing,57,Science,Q2393,Easy,Essay,False,128.76
+S0648,17,Female,Visual,55,Science,Q2573,Hard,True/False,False,120.53
+S0649,18,Female,Visual,96,Geography,Q1737,Easy,True/False,False,141.81
+S0650,16,Female,Visual,88,English,Q3121,Medium,Multiple Choice,True,165.1
+S0651,18,Female,Reading/Writing,70,English,Q2071,Hard,Multiple Choice,True,153.91
+S0652,15,Female,Visual,82,English,Q4604,Medium,Short Answer,True,219.22
+S0653,17,Female,Reading/Writing,57,Science,Q241,Hard,Multiple Choice,True,142.3
+S0654,12,Male,Reading/Writing,99,History,Q1084,Medium,Essay,True,287.32
+S0655,14,Female,Kinesthetic,93,English,Q2980,Easy,Short Answer,True,284.33
+S0656,14,Male,Reading/Writing,78,Science,Q3386,Medium,Essay,True,254.38
+S0657,15,Male,Auditory,82,Geography,Q2080,Easy,True/False,True,185.33
+S0658,16,Male,Visual,74,Science,Q2914,Medium,True/False,False,41.69
+S0659,18,Male,Reading/Writing,85,English,Q3163,Easy,Multiple Choice,False,101.28
+S0660,17,Male,Visual,82,Math,Q2349,Medium,Multiple Choice,False,132.98
+S0661,18,Male,Auditory,50,Science,Q3776,Medium,Short Answer,False,83.94
+S0662,16,Female,Kinesthetic,84,English,Q1480,Easy,Multiple Choice,False,228.88
+S0663,14,Female,Visual,54,Math,Q809,Hard,True/False,True,20.77
+S0664,16,Male,Auditory,57,English,Q4016,Medium,Multiple Choice,False,145.96
+S0665,16,Female,Visual,89,Geography,Q1674,Easy,Multiple Choice,True,143.7
+S0666,12,Female,Auditory,96,History,Q369,Easy,True/False,True,232.08
+S0667,16,Male,Visual,62,English,Q3881,Medium,Multiple Choice,True,280.26
+S0668,12,Female,Visual,83,Math,Q3812,Medium,Multiple Choice,False,280.9
+S0669,16,Female,Kinesthetic,90,History,Q2850,Easy,True/False,True,273.2
+S0670,17,Female,Kinesthetic,79,Math,Q271,Medium,Multiple Choice,False,266.07
+S0671,13,Male,Auditory,78,Math,Q4261,Hard,True/False,True,257.03
+S0672,13,Female,Reading/Writing,79,History,Q1350,Hard,True/False,False,12.14
+S0673,14,Male,Kinesthetic,96,History,Q4924,Hard,True/False,False,158.63
+S0674,14,Male,Kinesthetic,55,Geography,Q3684,Hard,Essay,True,41.08
+S0675,17,Male,Reading/Writing,58,Geography,Q1354,Medium,Multiple Choice,False,184.71
+S0676,13,Male,Visual,52,English,Q1921,Medium,Multiple Choice,True,45.06
+S0677,16,Female,Reading/Writing,98,Science,Q3635,Hard,True/False,False,159.08
+S0678,16,Female,Reading/Writing,83,History,Q704,Easy,True/False,True,169.51
+S0679,16,Female,Auditory,72,Math,Q3745,Hard,True/False,True,124.37
+S0680,12,Male,Visual,82,Science,Q4210,Medium,Essay,True,49.24
+S0681,12,Female,Reading/Writing,97,Math,Q4006,Medium,Essay,False,31.99
+S0682,17,Female,Auditory,86,History,Q2364,Hard,Essay,False,266.67
+S0683,18,Male,Auditory,66,History,Q3569,Easy,Short Answer,True,210.34
+S0684,15,Female,Reading/Writing,71,Science,Q2906,Easy,Multiple Choice,True,36.46
+S0685,14,Male,Kinesthetic,82,Science,Q3776,Hard,Short Answer,False,218.17
+S0686,13,Male,Kinesthetic,76,Science,Q911,Medium,Essay,True,296.79
+S0687,17,Male,Visual,73,Geography,Q3700,Easy,True/False,True,123.52
+S0688,18,Female,Visual,57,Math,Q5,Hard,True/False,True,192.29
+S0689,15,Female,Auditory,65,Science,Q1757,Medium,Multiple Choice,False,14.45
+S0690,14,Male,Visual,92,History,Q78,Easy,Short Answer,True,244.5
+S0691,16,Female,Visual,69,History,Q2716,Hard,Multiple Choice,False,115.88
+S0692,14,Female,Auditory,54,Geography,Q665,Medium,Short Answer,False,102.79
+S0693,15,Female,Reading/Writing,64,English,Q1260,Easy,Essay,True,46.7
+S0694,12,Male,Kinesthetic,52,Science,Q3157,Hard,Essay,False,53.12
+S0695,18,Male,Kinesthetic,84,History,Q4902,Hard,Short Answer,False,243.94
+S0696,12,Female,Kinesthetic,87,Geography,Q4482,Hard,Multiple Choice,True,267.07
+S0697,13,Female,Visual,97,Math,Q3422,Easy,True/False,True,237.74
+S0698,15,Male,Auditory,53,Math,Q959,Medium,Short Answer,True,241.58
+S0699,16,Female,Kinesthetic,98,Math,Q4137,Hard,True/False,False,15.56
+S0700,14,Female,Auditory,94,Math,Q394,Medium,Multiple Choice,False,74.24
+S0701,12,Female,Auditory,58,Geography,Q2902,Easy,Essay,False,25.47
+S0702,14,Female,Auditory,74,History,Q129,Hard,True/False,False,107.28
+S0703,14,Male,Reading/Writing,88,Science,Q1127,Easy,Multiple Choice,True,151.53
+S0704,17,Male,Auditory,52,History,Q909,Easy,Multiple Choice,True,243.7
+S0705,13,Female,Visual,82,English,Q3241,Medium,Short Answer,False,14.69
+S0706,14,Female,Kinesthetic,82,English,Q3434,Easy,Essay,True,175.48
+S0707,17,Female,Auditory,54,Science,Q4029,Hard,Multiple Choice,False,265.59
+S0708,12,Male,Kinesthetic,100,History,Q712,Easy,True/False,True,17.26
+S0709,15,Male,Auditory,70,Science,Q2495,Medium,Essay,True,178.81
+S0710,15,Female,Reading/Writing,90,History,Q3752,Easy,Essay,True,46.5
+S0711,13,Female,Auditory,76,History,Q1005,Hard,Essay,True,263.62
+S0712,12,Male,Auditory,65,Science,Q825,Medium,True/False,True,158.95
+S0713,17,Male,Kinesthetic,64,Math,Q3080,Medium,True/False,False,69.17
+S0714,16,Male,Auditory,74,English,Q3203,Hard,Essay,True,221.73
+S0715,14,Male,Reading/Writing,95,History,Q3347,Hard,True/False,True,216.41
+S0716,16,Male,Auditory,95,Science,Q3030,Easy,True/False,True,216.42
+S0717,16,Male,Kinesthetic,96,Science,Q4182,Easy,Multiple Choice,True,150.61
+S0718,18,Male,Kinesthetic,80,Science,Q461,Hard,Essay,True,125.7
+S0719,16,Female,Visual,100,Science,Q1011,Easy,Short Answer,True,81.09
+S0720,14,Female,Auditory,50,English,Q4823,Medium,Short Answer,False,282.16
+S0721,16,Female,Kinesthetic,63,Geography,Q262,Medium,Short Answer,True,274.92
+S0722,16,Male,Auditory,81,History,Q1936,Hard,Multiple Choice,True,95.04
+S0723,14,Male,Kinesthetic,57,Geography,Q1609,Easy,True/False,True,72.25
+S0724,15,Male,Kinesthetic,72,History,Q4884,Hard,Short Answer,False,71.22
+S0725,18,Male,Kinesthetic,51,Math,Q2292,Hard,Multiple Choice,True,149.04
+S0726,16,Female,Kinesthetic,53,History,Q4377,Medium,True/False,False,198.22
+S0727,13,Female,Kinesthetic,79,Math,Q4247,Easy,Multiple Choice,False,129.47
+S0728,14,Male,Visual,60,Geography,Q4882,Hard,True/False,True,45.3
+S0729,15,Female,Auditory,60,Science,Q918,Easy,Essay,True,248.84
+S0730,12,Male,Kinesthetic,98,Science,Q4861,Medium,True/False,False,84.0
+S0731,16,Male,Kinesthetic,78,Science,Q2161,Hard,True/False,True,171.0
+S0732,16,Female,Visual,94,History,Q3222,Hard,Essay,True,54.36
+S0733,18,Male,Kinesthetic,85,Math,Q673,Medium,True/False,False,204.53
+S0734,15,Male,Auditory,91,Geography,Q4716,Hard,Multiple Choice,True,154.91
+S0735,12,Female,Kinesthetic,51,English,Q4760,Easy,Multiple Choice,False,81.8
+S0736,13,Female,Kinesthetic,84,English,Q467,Easy,Multiple Choice,True,226.57
+S0737,18,Female,Visual,66,History,Q4972,Easy,True/False,True,275.37
+S0738,14,Male,Reading/Writing,67,Geography,Q997,Medium,True/False,True,266.91
+S0739,15,Male,Auditory,87,Science,Q741,Medium,Multiple Choice,True,152.7
+S0740,15,Female,Auditory,84,Science,Q2073,Medium,Short Answer,False,272.75
+S0741,16,Male,Kinesthetic,89,Math,Q3766,Hard,Multiple Choice,True,255.55
+S0742,15,Male,Kinesthetic,91,Geography,Q2640,Hard,Essay,False,183.69
+S0743,13,Male,Auditory,93,Science,Q967,Easy,Multiple Choice,False,161.92
+S0744,12,Male,Kinesthetic,60,Science,Q425,Medium,True/False,True,147.81
+S0745,16,Female,Reading/Writing,90,Science,Q2096,Medium,Essay,True,163.9
+S0746,13,Male,Reading/Writing,98,Geography,Q2126,Medium,Multiple Choice,True,118.11
+S0747,15,Female,Auditory,65,History,Q1078,Medium,True/False,True,148.5
+S0748,16,Male,Kinesthetic,92,History,Q301,Hard,Short Answer,True,143.93
+S0749,13,Female,Visual,59,English,Q1502,Medium,Short Answer,True,127.69
+S0750,17,Male,Visual,75,Math,Q2813,Easy,Short Answer,False,200.13
+S0751,13,Male,Visual,53,Math,Q398,Hard,Multiple Choice,True,236.66
+S0752,12,Male,Auditory,85,Science,Q1489,Easy,Short Answer,False,182.72
+S0753,16,Female,Visual,89,English,Q165,Medium,Short Answer,True,37.4
+S0754,12,Male,Auditory,78,Geography,Q2132,Hard,Multiple Choice,True,134.57
+S0755,14,Female,Auditory,62,Math,Q1497,Medium,Essay,False,52.84
+S0756,14,Male,Kinesthetic,57,English,Q3653,Hard,Short Answer,True,265.76
+S0757,18,Female,Auditory,71,Geography,Q2687,Medium,Short Answer,False,86.65
+S0758,18,Female,Auditory,56,Math,Q3963,Hard,Multiple Choice,False,81.91
+S0759,14,Male,Kinesthetic,78,English,Q1666,Hard,Essay,False,83.81
+S0760,15,Male,Visual,51,Math,Q723,Medium,True/False,False,11.83
+S0761,13,Female,Auditory,67,Science,Q2291,Easy,True/False,False,143.99
+S0762,17,Male,Reading/Writing,61,Science,Q1723,Medium,True/False,True,281.96
+S0763,17,Male,Reading/Writing,83,English,Q3901,Easy,True/False,False,171.59
+S0764,13,Male,Visual,99,Science,Q678,Medium,True/False,True,76.09
+S0765,14,Female,Reading/Writing,74,Geography,Q4715,Hard,Essay,True,192.29
+S0766,16,Female,Auditory,78,English,Q4531,Hard,Multiple Choice,True,222.39
+S0767,18,Male,Auditory,78,Math,Q4251,Medium,True/False,False,12.59
+S0768,12,Male,Visual,68,History,Q2299,Hard,Essay,False,90.66
+S0769,17,Male,Visual,61,English,Q4783,Medium,Short Answer,False,141.74
+S0770,18,Female,Auditory,78,History,Q3882,Easy,Essay,False,260.4
+S0771,18,Male,Auditory,60,History,Q2030,Hard,True/False,False,146.71
+S0772,18,Male,Visual,78,Math,Q921,Easy,Short Answer,True,174.67
+S0773,13,Female,Kinesthetic,90,Science,Q2005,Easy,Multiple Choice,False,179.06
+S0774,18,Female,Visual,62,Geography,Q1412,Hard,Multiple Choice,False,23.16
+S0775,16,Female,Kinesthetic,96,Math,Q922,Hard,Essay,False,13.4
+S0776,16,Female,Auditory,71,Science,Q1810,Hard,Short Answer,False,243.78
+S0777,16,Female,Kinesthetic,92,English,Q3391,Medium,Short Answer,False,231.06
+S0778,13,Female,Auditory,64,Geography,Q3249,Hard,Essay,False,180.18
+S0779,14,Male,Auditory,50,Science,Q2193,Hard,Short Answer,True,285.9
+S0780,13,Female,Kinesthetic,72,History,Q2354,Medium,Essay,False,236.83
+S0781,16,Female,Visual,86,Math,Q133,Easy,Essay,False,75.66
+S0782,15,Male,Kinesthetic,60,Geography,Q4793,Easy,True/False,True,28.12
+S0783,15,Female,Visual,96,Science,Q1155,Hard,Short Answer,True,242.31
+S0784,17,Female,Auditory,78,Science,Q1631,Hard,Multiple Choice,True,242.07
+S0785,15,Female,Auditory,94,Geography,Q3755,Medium,Essay,False,170.44
+S0786,17,Male,Auditory,87,English,Q4768,Medium,Short Answer,True,88.25
+S0787,17,Male,Reading/Writing,93,Geography,Q4769,Hard,Short Answer,False,146.61
+S0788,17,Male,Reading/Writing,75,English,Q2491,Hard,Short Answer,False,139.82
+S0789,13,Male,Kinesthetic,61,English,Q4952,Medium,Essay,False,173.31
+S0790,14,Male,Reading/Writing,81,Math,Q1008,Hard,True/False,False,92.37
+S0791,13,Male,Kinesthetic,95,Science,Q4872,Easy,True/False,False,16.92
+S0792,14,Female,Kinesthetic,52,English,Q1713,Easy,Essay,False,147.55
+S0793,15,Male,Reading/Writing,60,English,Q3563,Medium,Multiple Choice,False,108.3
+S0794,17,Male,Reading/Writing,59,English,Q2742,Hard,Multiple Choice,True,278.18
+S0795,18,Female,Kinesthetic,99,English,Q1246,Hard,Multiple Choice,True,138.12
+S0796,18,Male,Auditory,65,Math,Q2968,Easy,Essay,False,266.02
+S0797,18,Male,Reading/Writing,58,English,Q60,Easy,Essay,False,190.26
+S0798,13,Female,Reading/Writing,51,Geography,Q696,Easy,Essay,True,257.47
+S0799,17,Male,Reading/Writing,99,Geography,Q2164,Medium,Short Answer,True,32.0
+S0800,17,Female,Visual,91,Science,Q3392,Medium,Essay,True,257.42
+S0801,14,Male,Auditory,90,Math,Q260,Hard,True/False,True,192.72
+S0802,15,Male,Auditory,99,History,Q990,Hard,True/False,True,120.87
+S0803,16,Female,Auditory,71,History,Q1222,Easy,Short Answer,True,195.42
+S0804,12,Female,Kinesthetic,72,Math,Q3848,Easy,Multiple Choice,False,273.33
+S0805,16,Male,Visual,71,Science,Q1671,Easy,True/False,False,186.71
+S0806,17,Male,Visual,75,English,Q4522,Medium,Multiple Choice,False,216.03
+S0807,15,Male,Kinesthetic,84,English,Q1111,Easy,Essay,False,106.37
+S0808,18,Female,Auditory,54,English,Q422,Medium,Short Answer,False,124.67
+S0809,12,Male,Reading/Writing,98,History,Q4980,Easy,Essay,False,295.92
+S0810,13,Male,Visual,93,English,Q1809,Medium,True/False,True,236.64
+S0811,18,Female,Visual,61,Science,Q1067,Hard,True/False,True,271.46
+S0812,14,Male,Auditory,76,English,Q4653,Medium,True/False,True,249.68
+S0813,15,Male,Reading/Writing,71,Math,Q3434,Hard,Essay,True,19.87
+S0814,18,Male,Kinesthetic,76,Geography,Q3727,Medium,Multiple Choice,True,174.94
+S0815,12,Female,Auditory,74,Geography,Q4419,Medium,Short Answer,False,255.52
+S0816,16,Female,Visual,90,Science,Q1881,Medium,Multiple Choice,False,48.05
+S0817,18,Female,Visual,50,Science,Q2300,Easy,Multiple Choice,True,113.23
+S0818,12,Male,Auditory,76,English,Q1690,Easy,Short Answer,True,260.45
+S0819,18,Female,Auditory,91,History,Q4213,Medium,Multiple Choice,True,160.45
+S0820,17,Female,Reading/Writing,88,English,Q2582,Easy,Essay,True,28.37
+S0821,17,Female,Reading/Writing,55,Math,Q1821,Easy,True/False,False,14.08
+S0822,14,Male,Reading/Writing,68,English,Q1539,Hard,Multiple Choice,False,36.51
+S0823,13,Male,Reading/Writing,72,Science,Q890,Easy,Short Answer,False,164.2
+S0824,12,Male,Visual,78,Geography,Q201,Medium,Essay,True,263.86
+S0825,15,Female,Auditory,76,Math,Q2942,Easy,Multiple Choice,True,154.11
+S0826,16,Female,Visual,80,English,Q2697,Medium,Essay,False,114.4
+S0827,14,Male,Auditory,94,Math,Q2435,Medium,Essay,False,187.15
+S0828,12,Female,Auditory,97,Geography,Q2417,Hard,Essay,True,38.57
+S0829,16,Female,Visual,61,Geography,Q1308,Medium,Short Answer,False,232.07
+S0830,16,Male,Visual,95,History,Q4658,Hard,Short Answer,True,218.19
+S0831,18,Female,Kinesthetic,68,English,Q4257,Hard,True/False,True,14.69
+S0832,15,Male,Reading/Writing,79,Geography,Q1078,Easy,True/False,True,10.37
+S0833,16,Male,Kinesthetic,51,Math,Q2396,Medium,Essay,True,41.73
+S0834,18,Female,Reading/Writing,52,Science,Q3074,Medium,True/False,True,192.19
+S0835,12,Female,Kinesthetic,75,History,Q1264,Easy,Multiple Choice,False,265.17
+S0836,15,Male,Visual,96,Science,Q836,Easy,True/False,False,98.17
+S0837,14,Female,Reading/Writing,54,Math,Q3857,Hard,True/False,False,222.36
+S0838,16,Female,Kinesthetic,100,Science,Q3580,Easy,True/False,True,34.74
+S0839,12,Female,Visual,87,History,Q2781,Easy,Short Answer,False,11.58
+S0840,15,Male,Kinesthetic,61,Geography,Q736,Easy,Multiple Choice,False,80.46
+S0841,12,Male,Visual,60,Geography,Q1967,Easy,True/False,True,277.54
+S0842,13,Female,Reading/Writing,90,Math,Q3410,Easy,Short Answer,False,204.89
+S0843,13,Male,Auditory,64,English,Q4411,Easy,Essay,False,183.04
+S0844,12,Male,Auditory,91,History,Q4834,Medium,Short Answer,False,61.45
+S0845,14,Male,Reading/Writing,59,Science,Q1920,Medium,Essay,True,227.9
+S0846,18,Male,Kinesthetic,65,History,Q682,Easy,True/False,False,264.88
+S0847,15,Male,Reading/Writing,52,History,Q168,Medium,Short Answer,True,291.09
+S0848,13,Female,Visual,74,Science,Q4790,Hard,Multiple Choice,True,46.08
+S0849,16,Female,Kinesthetic,67,History,Q3290,Medium,Multiple Choice,True,285.15
+S0850,12,Female,Reading/Writing,50,English,Q4070,Easy,Essay,True,154.24
+S0851,16,Male,Visual,51,Geography,Q827,Easy,Short Answer,False,248.66
+S0852,15,Female,Kinesthetic,74,History,Q3691,Easy,True/False,False,150.67
+S0853,13,Male,Auditory,74,English,Q2664,Easy,True/False,True,90.44
+S0854,18,Male,Visual,88,Geography,Q4562,Hard,Multiple Choice,False,150.82
+S0855,18,Male,Auditory,93,History,Q47,Hard,Short Answer,True,56.65
+S0856,13,Female,Reading/Writing,71,Math,Q2014,Medium,True/False,True,114.59
+S0857,16,Female,Visual,76,Science,Q1193,Hard,True/False,False,126.29
+S0858,14,Female,Auditory,64,History,Q8,Easy,True/False,True,249.69
+S0859,18,Male,Reading/Writing,61,Math,Q2338,Hard,Multiple Choice,True,191.54
+S0860,14,Male,Auditory,95,History,Q3661,Hard,Essay,True,69.18
+S0861,12,Male,Kinesthetic,96,English,Q1493,Hard,Short Answer,True,267.37
+S0862,15,Male,Auditory,59,History,Q2750,Medium,Essay,True,250.61
+S0863,18,Male,Kinesthetic,84,Math,Q1354,Medium,Short Answer,True,147.44
+S0864,15,Female,Visual,74,Math,Q1370,Hard,Short Answer,False,44.45
+S0865,13,Female,Reading/Writing,87,English,Q1449,Easy,True/False,True,78.63
+S0866,14,Female,Reading/Writing,100,Science,Q249,Medium,Essay,True,131.21
+S0867,16,Male,Reading/Writing,50,Science,Q3448,Easy,Essay,True,275.29
+S0868,15,Female,Auditory,53,Math,Q4333,Hard,True/False,False,113.15
+S0869,13,Male,Kinesthetic,59,Math,Q1223,Easy,True/False,True,229.19
+S0870,18,Male,Auditory,53,Science,Q3947,Hard,Short Answer,False,268.22
+S0871,17,Female,Auditory,98,Science,Q274,Medium,Essay,False,78.95
+S0872,15,Male,Reading/Writing,56,Science,Q2287,Easy,True/False,False,49.21
+S0873,17,Female,Reading/Writing,76,English,Q3466,Medium,Essay,True,260.47
+S0874,16,Female,Visual,61,History,Q1470,Easy,Essay,True,280.76
+S0875,17,Male,Reading/Writing,64,History,Q135,Easy,Short Answer,True,146.2
+S0876,15,Male,Auditory,53,Math,Q2517,Hard,True/False,True,199.91
+S0877,16,Male,Kinesthetic,97,Geography,Q199,Medium,Essay,False,89.88
+S0878,17,Male,Auditory,94,English,Q4900,Easy,Multiple Choice,True,115.06
+S0879,12,Male,Visual,98,English,Q4962,Easy,True/False,False,120.38
+S0880,12,Female,Visual,51,History,Q3608,Hard,Short Answer,False,282.06
+S0881,15,Male,Visual,72,Geography,Q326,Medium,Multiple Choice,True,35.16
+S0882,18,Female,Reading/Writing,54,Science,Q1644,Hard,Short Answer,False,191.4
+S0883,16,Female,Reading/Writing,67,English,Q1759,Hard,Multiple Choice,True,217.43
+S0884,18,Male,Visual,60,Math,Q2994,Medium,Short Answer,False,59.6
+S0885,16,Male,Kinesthetic,93,Geography,Q1526,Easy,Multiple Choice,True,204.41
+S0886,12,Male,Visual,79,Geography,Q4433,Easy,Essay,False,292.68
+S0887,12,Male,Auditory,65,English,Q432,Medium,Multiple Choice,True,153.84
+S0888,18,Female,Visual,56,History,Q4338,Easy,Short Answer,False,288.4
+S0889,12,Female,Visual,79,Science,Q2003,Hard,Essay,True,10.31
+S0890,12,Male,Visual,83,Geography,Q613,Medium,Multiple Choice,True,42.42
+S0891,13,Male,Kinesthetic,62,History,Q2744,Hard,Essay,True,14.34
+S0892,14,Male,Auditory,96,History,Q3599,Hard,Essay,True,287.65
+S0893,17,Female,Reading/Writing,58,Science,Q357,Easy,True/False,False,124.72
+S0894,14,Male,Reading/Writing,58,English,Q415,Medium,Essay,True,275.88
+S0895,17,Male,Visual,71,Geography,Q2497,Hard,Essay,True,134.76
+S0896,12,Male,Kinesthetic,87,Science,Q4762,Hard,Multiple Choice,True,16.54
+S0897,13,Female,Visual,83,Science,Q1724,Medium,Multiple Choice,True,119.76
+S0898,16,Female,Auditory,77,History,Q3377,Medium,Essay,False,270.85
+S0899,14,Male,Reading/Writing,73,English,Q1114,Easy,Multiple Choice,False,47.16
+S0900,17,Male,Auditory,96,History,Q1293,Easy,True/False,True,196.43
+S0901,17,Female,Reading/Writing,53,Math,Q1127,Hard,Multiple Choice,False,200.14
+S0902,14,Male,Auditory,64,History,Q1510,Easy,Multiple Choice,False,122.63
+S0903,15,Male,Kinesthetic,94,English,Q4740,Easy,Multiple Choice,True,54.53
+S0904,13,Female,Reading/Writing,75,Math,Q3837,Medium,True/False,False,51.51
+S0905,17,Female,Visual,88,English,Q3894,Medium,Essay,False,219.77
+S0906,16,Female,Auditory,60,History,Q4019,Medium,Multiple Choice,False,75.97
+S0907,18,Male,Auditory,92,Math,Q3064,Hard,Short Answer,True,37.72
+S0908,14,Male,Kinesthetic,62,History,Q4665,Medium,True/False,True,158.87
+S0909,14,Male,Auditory,53,Math,Q3780,Hard,Multiple Choice,False,279.24
+S0910,12,Female,Auditory,64,English,Q3084,Hard,Multiple Choice,True,252.67
+S0911,12,Male,Kinesthetic,56,Math,Q188,Hard,Essay,False,244.17
+S0912,12,Male,Kinesthetic,68,Math,Q829,Hard,Multiple Choice,True,289.38
+S0913,14,Female,Visual,75,Math,Q4367,Medium,True/False,False,179.66
+S0914,17,Female,Auditory,51,History,Q4602,Easy,Multiple Choice,True,94.7
+S0915,18,Male,Kinesthetic,61,Math,Q3217,Medium,Short Answer,False,64.79
+S0916,14,Male,Kinesthetic,99,English,Q3460,Hard,Short Answer,True,296.92
+S0917,17,Female,Reading/Writing,88,Science,Q3728,Easy,Short Answer,False,220.97
+S0918,12,Female,Reading/Writing,65,Science,Q4345,Hard,Multiple Choice,True,169.65
+S0919,15,Male,Reading/Writing,53,Geography,Q466,Hard,Multiple Choice,True,103.83
+S0920,17,Female,Auditory,98,English,Q1586,Hard,True/False,True,26.15
+S0921,14,Female,Visual,59,Science,Q2749,Hard,Essay,True,239.49
+S0922,13,Female,Kinesthetic,76,History,Q4156,Medium,Essay,False,252.22
+S0923,15,Female,Visual,75,English,Q1135,Easy,True/False,False,239.34
+S0924,12,Female,Visual,83,Geography,Q3628,Easy,Multiple Choice,True,121.15
+S0925,12,Male,Kinesthetic,69,English,Q665,Easy,Essay,False,140.21
+S0926,18,Male,Kinesthetic,89,History,Q727,Hard,True/False,True,124.83
+S0927,16,Female,Visual,51,English,Q4546,Easy,Essay,False,53.09
+S0928,18,Female,Reading/Writing,60,History,Q2651,Easy,Short Answer,False,256.16
+S0929,17,Male,Visual,80,English,Q4177,Easy,Short Answer,True,174.96
+S0930,14,Female,Kinesthetic,77,History,Q4374,Easy,True/False,False,195.68
+S0931,17,Male,Auditory,100,Science,Q132,Hard,Multiple Choice,False,189.03
+S0932,15,Male,Reading/Writing,51,Geography,Q2210,Medium,Short Answer,False,138.98
+S0933,12,Female,Kinesthetic,78,Science,Q1600,Hard,Multiple Choice,True,207.86
+S0934,12,Male,Reading/Writing,74,Math,Q3705,Hard,True/False,False,240.58
+S0935,12,Male,Reading/Writing,59,English,Q833,Easy,Essay,True,162.55
+S0936,16,Female,Kinesthetic,61,Geography,Q1643,Medium,Essay,False,74.3
+S0937,17,Male,Reading/Writing,91,Geography,Q948,Hard,Multiple Choice,True,160.24
+S0938,13,Female,Kinesthetic,95,Science,Q4570,Hard,Short Answer,False,244.19
+S0939,16,Female,Kinesthetic,66,Science,Q56,Easy,Short Answer,False,73.05
+S0940,18,Male,Reading/Writing,62,History,Q4161,Easy,Short Answer,False,223.77
+S0941,14,Male,Reading/Writing,97,History,Q1022,Easy,Essay,True,26.75
+S0942,12,Female,Kinesthetic,78,History,Q3685,Hard,True/False,True,290.98
+S0943,15,Male,Visual,66,History,Q4091,Easy,Essay,True,164.03
+S0944,12,Male,Auditory,55,Geography,Q4918,Hard,Multiple Choice,True,117.47
+S0945,13,Male,Visual,70,Science,Q4560,Easy,Multiple Choice,False,90.79
+S0946,16,Female,Reading/Writing,70,History,Q467,Hard,True/False,False,214.57
+S0947,17,Male,Auditory,50,English,Q4105,Medium,True/False,False,205.21
+S0948,14,Male,Visual,98,Science,Q2562,Easy,Essay,False,298.79
+S0949,17,Female,Visual,97,Math,Q2693,Medium,True/False,False,233.55
+S0950,14,Male,Reading/Writing,52,History,Q2728,Hard,Essay,False,35.16
+S0951,15,Female,Auditory,64,History,Q2939,Easy,Short Answer,True,33.08
+S0952,12,Female,Kinesthetic,67,Math,Q4034,Hard,Short Answer,False,66.1
+S0953,16,Female,Kinesthetic,62,Geography,Q1054,Easy,Short Answer,False,64.42
+S0954,13,Female,Kinesthetic,78,Science,Q3331,Medium,Short Answer,False,122.7
+S0955,15,Female,Kinesthetic,86,Geography,Q2539,Hard,Short Answer,False,72.12
+S0956,12,Male,Auditory,72,Geography,Q4732,Medium,Multiple Choice,True,102.2
+S0957,18,Female,Visual,100,English,Q3237,Easy,True/False,False,247.18
+S0958,17,Male,Visual,63,Geography,Q3617,Easy,Essay,False,72.95
+S0959,17,Male,Visual,99,Science,Q1874,Easy,Multiple Choice,False,211.92
+S0960,17,Male,Kinesthetic,71,History,Q4149,Easy,Essay,False,242.21
+S0961,12,Male,Visual,81,Math,Q4383,Easy,True/False,False,168.2
+S0962,15,Female,Reading/Writing,73,Geography,Q1414,Hard,Multiple Choice,True,39.23
+S0963,14,Male,Kinesthetic,84,Science,Q2976,Easy,Short Answer,False,295.93
+S0964,16,Male,Auditory,80,Math,Q799,Medium,True/False,False,10.78
+S0965,13,Female,Reading/Writing,52,History,Q2591,Easy,Essay,False,200.49
+S0966,14,Female,Auditory,95,Geography,Q786,Easy,True/False,False,153.14
+S0967,14,Male,Visual,94,English,Q3712,Hard,True/False,True,68.08
+S0968,16,Female,Kinesthetic,94,Science,Q2822,Hard,True/False,True,220.1
+S0969,12,Female,Visual,88,English,Q4285,Hard,Short Answer,False,64.86
+S0970,17,Male,Visual,61,English,Q2581,Hard,Essay,True,197.08
+S0971,13,Male,Auditory,58,Geography,Q653,Easy,Short Answer,True,257.45
+S0972,14,Male,Kinesthetic,83,Math,Q3419,Medium,Multiple Choice,False,145.42
+S0973,17,Male,Reading/Writing,88,Math,Q41,Easy,Short Answer,False,75.88
+S0974,15,Male,Auditory,90,Geography,Q679,Medium,Essay,False,173.88
+S0975,15,Female,Visual,73,Math,Q4956,Hard,Multiple Choice,False,169.82
+S0976,17,Female,Reading/Writing,72,Science,Q3122,Medium,Multiple Choice,True,99.52
+S0977,15,Male,Auditory,54,Math,Q3411,Hard,Short Answer,False,48.65
+S0978,14,Male,Kinesthetic,68,Math,Q1720,Easy,True/False,True,85.37
+S0979,14,Male,Kinesthetic,82,Science,Q788,Easy,Multiple Choice,False,232.96
+S0980,18,Male,Auditory,77,Science,Q250,Hard,True/False,True,124.31
+S0981,12,Male,Reading/Writing,100,Math,Q4480,Hard,True/False,False,79.3
+S0982,15,Male,Auditory,93,English,Q1522,Hard,Short Answer,False,33.85
+S0983,14,Female,Reading/Writing,55,Math,Q2572,Easy,Essay,False,136.16
+S0984,12,Male,Visual,91,History,Q3420,Easy,Multiple Choice,False,200.44
+S0985,18,Female,Kinesthetic,88,English,Q1114,Medium,True/False,True,71.2
+S0986,12,Female,Visual,100,English,Q3609,Medium,Essay,True,88.39
+S0987,14,Female,Auditory,84,Geography,Q4228,Hard,Multiple Choice,True,285.95
+S0988,13,Female,Visual,62,Math,Q1457,Hard,Multiple Choice,False,140.58
+S0989,18,Female,Auditory,57,History,Q2181,Hard,Multiple Choice,True,267.25
+S0990,13,Male,Kinesthetic,85,Science,Q3208,Easy,True/False,True,18.84
+S0991,15,Female,Auditory,60,Math,Q809,Easy,True/False,False,259.86
+S0992,16,Female,Auditory,91,Math,Q4145,Hard,Essay,True,55.15
+S0993,14,Male,Auditory,55,English,Q2643,Hard,Essay,True,92.45
+S0994,14,Female,Auditory,97,Math,Q4292,Easy,True/False,True,17.25
+S0995,16,Female,Kinesthetic,64,History,Q1253,Medium,Short Answer,True,13.03
+S0996,16,Female,Visual,95,Math,Q1498,Medium,True/False,True,41.56
+S0997,15,Female,Reading/Writing,56,History,Q1133,Hard,Multiple Choice,True,23.54
+S0998,13,Male,Auditory,57,English,Q750,Easy,Multiple Choice,True,111.73
+S0999,12,Male,Auditory,64,English,Q1413,Hard,Multiple Choice,False,232.56
+S1000,15,Female,Auditory,64,English,Q3095,Medium,True/False,True,103.31
