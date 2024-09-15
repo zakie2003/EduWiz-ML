@@ -36,8 +36,6 @@ def index():
             "Accuracy": [accuracy]
         }
 
-        # Concatinate the new data with the existing data
-
         student_profile = pd.DataFrame(temp_data)
         
         question_data=pd.read_csv("./DataSet/student_api.csv")
@@ -54,17 +52,15 @@ def index():
 
         #Encoding Categorical Values
         all_data["Difficulty"]=all_data["Difficulty"].map({"Easy":1,"Medium":2,"Hard":3})
-        # all_data["Correct"]=all_data["Correct"].map({True:1,False:0})
         all_data[all_data["Gender"].unique()]=pd.get_dummies(all_data["Gender"])*1
         all_data[all_data["Learning_Style"].unique()]=pd.get_dummies(all_data["Learning_Style"])*1
         all_data[all_data["Subject"].unique()]=pd.get_dummies(all_data["Subject"])*1
 
         
-
         #Calculating cosine similarity
         all_data=all_data.drop(["Gender","Learning_Style","Correct","Subject","Question_Type"],axis=1)
 
-        
+
         print(all_data)
 
         similarity=cosine_similarity(all_data.iloc[-1].values.reshape(1,-1),all_data.iloc[:-1].values)
